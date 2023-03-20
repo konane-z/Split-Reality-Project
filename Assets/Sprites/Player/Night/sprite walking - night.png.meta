@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d37fe9d356c0c80489c08ba892937558
+guid: 6f3818b66c304c9409c9f28e2e7bb91c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -167,13 +167,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_0
+      name: sprite walking - night_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 67
-        width: 42
-        height: 54
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28f2aaadd2bd47b429f72187ce67c103
-      internalID: -1475642903
+      spriteID: fd958a7b6a615a1488de20dbd9febbf1
+      internalID: -764043848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_1
+      name: sprite walking - night_1
       rect:
         serializedVersion: 2
-        x: 76
-        y: 67
-        width: 43
-        height: 52
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a53b73915f5dfc8458fe5cb2e971fc2c
-      internalID: -1435208008
+      spriteID: 231fbbb2415f57245a4b89d04f7d2b49
+      internalID: 1491664691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_2
+      name: sprite walking - night_2
       rect:
         serializedVersion: 2
-        x: 140
-        y: 66
-        width: 42
-        height: 53
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1615b068ffbd9a4429de8f7948a3b139
-      internalID: -528965348
+      spriteID: f348a24533d61ee429a1da3d199fca39
+      internalID: -2042235269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_3
+      name: sprite walking - night_3
       rect:
         serializedVersion: 2
-        x: 204
-        y: 67
-        width: 42
-        height: 52
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67f0fd7dc4eeac84898537204dda1d1a
-      internalID: 31699134
+      spriteID: e4329d4d54b9b8b4c981f27acff46595
+      internalID: -1652129293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_4
+      name: sprite walking - night_4
       rect:
         serializedVersion: 2
-        x: 268
-        y: 67
-        width: 42
-        height: 52
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2313bbaa3c7b3a247963d227ea7e7b4d
-      internalID: 282534036
+      spriteID: 57e78f083def3ad4c858210755f675ea
+      internalID: -1002950549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_5
+      name: sprite walking - night_5
       rect:
         serializedVersion: 2
-        x: 12
-        y: 3
-        width: 43
-        height: 52
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,92 +286,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23886e939a59bee468f73d52ff283b9c
-      internalID: -385465678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_6
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 3
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53bd7b222f28f6a4d8ce9f4cd682c954
-      internalID: 1325733775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_7
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 3
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d61f5fcb87857f499e5602e3657396e
-      internalID: -404392980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_8
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 3
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f3e7237e5191bb42872e3fa6a9d2fdb
-      internalID: -1532387865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: calicoKitty_curiousIdleBreaker_9
-      rect:
-        serializedVersion: 2
-        x: 268
-        y: 3
-        width: 43
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d295c968905e9454f82b5ce125336fd2
-      internalID: 257463249
+      spriteID: 833e0bebd4c18de4cb718117ab1fad1f
+      internalID: -720100621
       vertices: []
       indices: 
       edges: []
@@ -387,16 +303,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      calicoKitty_curiousIdleBreaker_6: 1325733775
-      calicoKitty_curiousIdleBreaker_1: -1435208008
-      calicoKitty_curiousIdleBreaker_0: -1475642903
-      calicoKitty_curiousIdleBreaker_5: -385465678
-      calicoKitty_curiousIdleBreaker_8: -1532387865
-      calicoKitty_curiousIdleBreaker_3: 31699134
-      calicoKitty_curiousIdleBreaker_9: 257463249
-      calicoKitty_curiousIdleBreaker_7: -404392980
-      calicoKitty_curiousIdleBreaker_2: -528965348
-      calicoKitty_curiousIdleBreaker_4: 282534036
+      sprite walking - night_2: -2042235269
+      sprite walking - night_0: -764043848
+      sprite walking - night_5: -720100621
+      sprite walking - night_4: -1002950549
+      sprite walking - night_1: 1491664691
+      sprite walking - night_3: -1652129293
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

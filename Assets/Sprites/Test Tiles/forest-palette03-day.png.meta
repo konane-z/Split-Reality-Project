@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2ffbb44d756a053489d3b532eeb93723
+guid: 723e49cce3f870243bd37cf76b944887
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -167,7 +167,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: forest-palette03-night_0
+      name: forest-palette03-day_0
       rect:
         serializedVersion: 2
         x: 32
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dacc42f99cc74c040a01fe2f901717ef
-      internalID: -2053885271
+      spriteID: d39daa1edf1b6b444a3a025630f5ee17
+      internalID: 523788787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_1
+      name: forest-palette03-day_1
       rect:
         serializedVersion: 2
         x: 48
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7e5824615a979446b971473ebb746e8
-      internalID: 1809571960
+      spriteID: 90de5b38431725b4cae1c100a307c172
+      internalID: -845675305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_2
+      name: forest-palette03-day_2
       rect:
         serializedVersion: 2
         x: 64
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dda4256103be3a47bb60f0502030eed
-      internalID: 1710395544
+      spriteID: 1b81b206df009764c936837430f6643b
+      internalID: 777123183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_3
+      name: forest-palette03-day_3
       rect:
         serializedVersion: 2
         x: 80
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 218170a0dc55014479b2f4b94b05d8f5
-      internalID: 403982920
+      spriteID: a26f73be967694b479c7f2112db6129e
+      internalID: 558921002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_4
+      name: forest-palette03-day_4
       rect:
         serializedVersion: 2
         x: 96
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f3d63406cdeec74a87414a79ce21ef4
-      internalID: 359507733
+      spriteID: 7514439b196b88c4a8d8c14f51e509f1
+      internalID: -177370547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_5
+      name: forest-palette03-day_5
       rect:
         serializedVersion: 2
         x: 112
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 537918c7dbb23514aa9566184fd4ec8f
-      internalID: -486933046
+      spriteID: 1728d1d0d5607294db67af7b318a03f6
+      internalID: 968316202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_6
+      name: forest-palette03-day_6
       rect:
         serializedVersion: 2
         x: 128
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38cef8eb51f67724cb3c2f754b73c711
-      internalID: -109165046
+      spriteID: ded9fa6539a45704288f37a40d7920be
+      internalID: 1811710784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_7
+      name: forest-palette03-day_7
       rect:
         serializedVersion: 2
         x: 144
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8c6207e8ea1ee240b2cae606f8348c4
-      internalID: 1424402405
+      spriteID: 77bba1f09ebd26349a7ccea6e19d5c18
+      internalID: -458318423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_8
+      name: forest-palette03-day_8
       rect:
         serializedVersion: 2
         x: 160
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e36b34828abc5249856bd80f2c81e69
-      internalID: 295324757
+      spriteID: 7caae270d76d20a4d8c1e17835ea83ac
+      internalID: 1617551380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_9
+      name: forest-palette03-day_9
       rect:
         serializedVersion: 2
         x: 176
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d00ddc41287b2b4a95480332ba9d54c
-      internalID: 338738372
+      spriteID: fd15f87c13768ad4ba1397f58a629254
+      internalID: 1395646645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_10
+      name: forest-palette03-day_10
       rect:
         serializedVersion: 2
         x: 0
@@ -391,14 +391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8ff4780b4d683942af621b111abb8b3
-      internalID: -2071883287
+      spriteID: a3171ae336480e74394926b40eaabc17
+      internalID: 991925270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_11
+      name: forest-palette03-day_11
       rect:
         serializedVersion: 2
         x: 16
@@ -412,14 +412,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 849a3357494184249ab0cbf94dc8fedc
-      internalID: 2054283573
+      spriteID: 5ecb2c30b830a53469df4eb4b0463773
+      internalID: -1669967185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_12
+      name: forest-palette03-day_12
       rect:
         serializedVersion: 2
         x: 32
@@ -433,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5cf84e2b257eaf4b87e939e064c575f
-      internalID: 1402729347
+      spriteID: c7f3f97d88969ff4b9e3a57e476fca05
+      internalID: -367580841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_13
+      name: forest-palette03-day_13
       rect:
         serializedVersion: 2
         x: 48
@@ -454,14 +454,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5b29d5a68604f3459517eb58d7d33fb
-      internalID: -1392985325
+      spriteID: 1193d0b507c4e0840b9f689c1edb0073
+      internalID: 495198532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_14
+      name: forest-palette03-day_14
       rect:
         serializedVersion: 2
         x: 64
@@ -475,14 +475,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee7a0b70fc505d2478b49f5cda76ab24
-      internalID: -670499145
+      spriteID: 18df895c04afaf14ba3d3387eccdde9a
+      internalID: 1442803988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_15
+      name: forest-palette03-day_15
       rect:
         serializedVersion: 2
         x: 80
@@ -496,14 +496,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd3e13a4e9f3e3a44a6bf3993c25508c
-      internalID: 1905842986
+      spriteID: 2901737329097524798e9cfc8d777023
+      internalID: 704558747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_16
+      name: forest-palette03-day_16
       rect:
         serializedVersion: 2
         x: 96
@@ -517,14 +517,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6f268d74feeade42aa430dd0f497339
-      internalID: -1277809111
+      spriteID: 9323a4129019d0944bd71b0040a99e68
+      internalID: -1135818964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_17
+      name: forest-palette03-day_17
       rect:
         serializedVersion: 2
         x: 112
@@ -538,14 +538,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c148720b1772da9459634c30a5edb145
-      internalID: 2113810214
+      spriteID: 07c4d29bf00000947b19c007d8347feb
+      internalID: -1238357191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_18
+      name: forest-palette03-day_18
       rect:
         serializedVersion: 2
         x: 128
@@ -559,14 +559,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee95e05896aa27549b76d44b22eecc56
-      internalID: 266040288
+      spriteID: ab79d85685aff054fa67eb95fc5d3ea2
+      internalID: -1344678042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_19
+      name: forest-palette03-day_19
       rect:
         serializedVersion: 2
         x: 144
@@ -580,14 +580,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27e47d3906e733940806bcad15fb1d58
-      internalID: 2095216875
+      spriteID: af449117449294d44bb37cabb5bb38ef
+      internalID: 1682074137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_20
+      name: forest-palette03-day_20
       rect:
         serializedVersion: 2
         x: 160
@@ -601,14 +601,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8877b365b064cab48b79bacf8f70ba98
-      internalID: 1150465995
+      spriteID: fd3b1f06348085a4a8934990c2f80bbd
+      internalID: 1923008318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_21
+      name: forest-palette03-day_21
       rect:
         serializedVersion: 2
         x: 176
@@ -622,14 +622,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 138f6e60c05b2f74c8d79d92d88b465f
-      internalID: -1835427472
+      spriteID: 879ffea9897dc984c864e76496bdb18a
+      internalID: -341409291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_22
+      name: forest-palette03-day_22
       rect:
         serializedVersion: 2
         x: 0
@@ -643,14 +643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e93bf63b28236594ba8be525ed04ed27
-      internalID: -1495059763
+      spriteID: 7585eb4dc82ebdb4ab90693c1ebc8b02
+      internalID: 170578028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_23
+      name: forest-palette03-day_23
       rect:
         serializedVersion: 2
         x: 16
@@ -664,14 +664,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81da5ff32e4870e48827205eb0653fcf
-      internalID: 707406553
+      spriteID: 60a573534aaf3c443acac60acd25ee9f
+      internalID: 1893560593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_24
+      name: forest-palette03-day_24
       rect:
         serializedVersion: 2
         x: 32
@@ -685,14 +685,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96dc1c2fa1fdb6c4a9dc11519d15e2f4
-      internalID: -1600863076
+      spriteID: c775a341da1a8864a8b6d81e95d079a2
+      internalID: 1791909346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_25
+      name: forest-palette03-day_25
       rect:
         serializedVersion: 2
         x: 48
@@ -706,14 +706,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5e81cb7662c1b340ab813dcb572866d
-      internalID: -26483322
+      spriteID: 35f109a898695924b81cadaa446f6fa0
+      internalID: -659187187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_26
+      name: forest-palette03-day_26
       rect:
         serializedVersion: 2
         x: 64
@@ -727,14 +727,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ceef388d5ccc74944a687da9667c0458
-      internalID: -77925589
+      spriteID: 36784d773a129e244811a5aa29e34684
+      internalID: 1714290562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_27
+      name: forest-palette03-day_27
       rect:
         serializedVersion: 2
         x: 80
@@ -748,14 +748,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cf3752c1ec929a499f67005527179d1
-      internalID: -57938276
+      spriteID: cf8550d1bb7ce2241b1ab34ddba791c2
+      internalID: -929521841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_28
+      name: forest-palette03-day_28
       rect:
         serializedVersion: 2
         x: 96
@@ -769,14 +769,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ac3d253419c15a44a4a95b6a78b111e
-      internalID: 1169419149
+      spriteID: 95f9f8be8a6dbdd459b205e6491b6115
+      internalID: -165989192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_29
+      name: forest-palette03-day_29
       rect:
         serializedVersion: 2
         x: 112
@@ -790,14 +790,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bf19e840578ef74fa10cfba3ba2a598
-      internalID: -740628484
+      spriteID: 545003fab9b450843bb805d4f649e147
+      internalID: 1641333762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_30
+      name: forest-palette03-day_30
       rect:
         serializedVersion: 2
         x: 160
@@ -811,14 +811,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a740010ef086ca4281e624d2367f86d
-      internalID: 345052681
+      spriteID: 1303f2b953be89245b03f8d21721bdd9
+      internalID: 1170203400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_31
+      name: forest-palette03-day_31
       rect:
         serializedVersion: 2
         x: 176
@@ -832,14 +832,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 334fbf3479fe1a24b8dbcfa39f5287dd
-      internalID: 1001927158
+      spriteID: 01f3020bb1951b7448b24b1475a3eb9b
+      internalID: -836301544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_32
+      name: forest-palette03-day_32
       rect:
         serializedVersion: 2
         x: 192
@@ -853,14 +853,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 560607b3dea746d47b227cde3ee35cf6
-      internalID: 853519372
+      spriteID: e3d6e9973d0db2a4c898e7f6280711f7
+      internalID: -333617573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_33
+      name: forest-palette03-day_33
       rect:
         serializedVersion: 2
         x: 208
@@ -874,14 +874,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b7d053319c121747a05ee7bda4e1bc7
-      internalID: -350654905
+      spriteID: 97780befd18bc00458aa573055df03ec
+      internalID: 276342508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_34
+      name: forest-palette03-day_34
       rect:
         serializedVersion: 2
         x: 0
@@ -895,14 +895,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fd23d80e142e3547b58a93faa3cfb7a
-      internalID: 311839150
+      spriteID: d09defe9765ec324f9fcf16518705f0b
+      internalID: 1572845140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_35
+      name: forest-palette03-day_35
       rect:
         serializedVersion: 2
         x: 16
@@ -916,14 +916,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d8d96d6baa2d734ca8a15a7d784a279
-      internalID: 270373071
+      spriteID: 128b3cf7e05d09041837617818446dcb
+      internalID: 1859367567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_36
+      name: forest-palette03-day_36
       rect:
         serializedVersion: 2
         x: 32
@@ -937,14 +937,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dc73921ce1f29d4d8f6eadd8ea95093
-      internalID: -390050046
+      spriteID: 8655ab579bf6a224b9f341e9ee45160b
+      internalID: -753761536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_37
+      name: forest-palette03-day_37
       rect:
         serializedVersion: 2
         x: 48
@@ -958,14 +958,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f19194e0a056ce04b94cebee39d1d92d
-      internalID: 1468368469
+      spriteID: 6454d4558fa42da41818f9556ad14b3a
+      internalID: -1113478827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_38
+      name: forest-palette03-day_38
       rect:
         serializedVersion: 2
         x: 64
@@ -979,14 +979,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e38b85067e7feb49b7b49ae4388508c
-      internalID: -1641948288
+      spriteID: 8653d6c5e01d06c479cd2ef3756ec65f
+      internalID: 1191432082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_39
+      name: forest-palette03-day_39
       rect:
         serializedVersion: 2
         x: 80
@@ -1000,14 +1000,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3f8f48b4b7abe144b3b0bcf87d95851
-      internalID: 1529273179
+      spriteID: 93c8dbb1f336099408c06ef613094487
+      internalID: 1857461723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_40
+      name: forest-palette03-day_40
       rect:
         serializedVersion: 2
         x: 96
@@ -1021,14 +1021,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a939451386e01524eaa1e6a6af251d54
-      internalID: 1608856790
+      spriteID: cee975afbbbc0a2468cd03c60964de93
+      internalID: -1009384471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_41
+      name: forest-palette03-day_41
       rect:
         serializedVersion: 2
         x: 112
@@ -1042,14 +1042,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f700b04ffa8c42341b952b2d6d2c274e
-      internalID: -1139785425
+      spriteID: 1f59775270b9ccb438f25c08b56de6c0
+      internalID: -205003290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_42
+      name: forest-palette03-day_42
       rect:
         serializedVersion: 2
         x: 128
@@ -1063,14 +1063,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9db0308ab26e934d9337c0e2a06ebbb
-      internalID: 87353331
+      spriteID: be81d70833fb3174ebbbd0d49b16320a
+      internalID: -1596352429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_43
+      name: forest-palette03-day_43
       rect:
         serializedVersion: 2
         x: 144
@@ -1084,14 +1084,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9786123c86e5ce241b8d20d46c4b4409
-      internalID: 1248127678
+      spriteID: 0aa6f00c5a78a8e469f439a8f8165652
+      internalID: 1467225316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_44
+      name: forest-palette03-day_44
       rect:
         serializedVersion: 2
         x: 160
@@ -1105,14 +1105,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d35f40bd18e22b41ba9aead59776a26
-      internalID: -1934288467
+      spriteID: 0f89684a3c52a0e46a0c0807a8b3c1a7
+      internalID: 1035256759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_45
+      name: forest-palette03-day_45
       rect:
         serializedVersion: 2
         x: 176
@@ -1126,14 +1126,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83fba4191653b9f47b1dc5a8be3905d2
-      internalID: -1190613567
+      spriteID: fa473d5997174434a87cc1ddf1ccc414
+      internalID: -1791638553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_46
+      name: forest-palette03-day_46
       rect:
         serializedVersion: 2
         x: 0
@@ -1147,14 +1147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1762bdfcdb810024298a954230e21833
-      internalID: -605662999
+      spriteID: 36fc9d196a775264da84125c96b875ed
+      internalID: 583148521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_47
+      name: forest-palette03-day_47
       rect:
         serializedVersion: 2
         x: 16
@@ -1168,14 +1168,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 265f29275f3cdbb4a82cbf420ba846d1
-      internalID: -1474100987
+      spriteID: 3c8f1771a2cf9734e98971a4e7396e03
+      internalID: 2098704245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_48
+      name: forest-palette03-day_48
       rect:
         serializedVersion: 2
         x: 32
@@ -1189,14 +1189,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f20f563d9e57834b9723a068def531c
-      internalID: -873267741
+      spriteID: bd1352ece065db14cb7077b78310772b
+      internalID: -1748424107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_49
+      name: forest-palette03-day_49
       rect:
         serializedVersion: 2
         x: 48
@@ -1210,14 +1210,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2961df7db4af7f249a2de2e7278f2c51
-      internalID: 1889595334
+      spriteID: 0195c1fe5a6d1b5429e0d0ebd7cf4d16
+      internalID: -1407017350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_50
+      name: forest-palette03-day_50
       rect:
         serializedVersion: 2
         x: 64
@@ -1231,14 +1231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62f9008bcb0f63f4ab8333e5df1c3c27
-      internalID: -1582448979
+      spriteID: efb54415f98d8a447ab6620f6cca9eef
+      internalID: 924299228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_51
+      name: forest-palette03-day_51
       rect:
         serializedVersion: 2
         x: 80
@@ -1252,14 +1252,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0872474c485d8c499f649c38bb19142
-      internalID: -918974643
+      spriteID: d36415bcc1d47cc498beefd8accd0cc0
+      internalID: 299260642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_52
+      name: forest-palette03-day_52
       rect:
         serializedVersion: 2
         x: 96
@@ -1273,14 +1273,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ca775e67d72e6245999718caa7ce008
-      internalID: -646989568
+      spriteID: 9cb4e6f7491a3bd409264b2fde407455
+      internalID: -174422540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_53
+      name: forest-palette03-day_53
       rect:
         serializedVersion: 2
         x: 112
@@ -1294,14 +1294,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61bd0e4fd19374344857c98518ea0d32
-      internalID: 1313940934
+      spriteID: 4b4538e171a970345ab5661a78bb76f1
+      internalID: 1685591181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_54
+      name: forest-palette03-day_54
       rect:
         serializedVersion: 2
         x: 160
@@ -1315,14 +1315,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb711dc4a8c62dd43a177f97cfa7acbd
-      internalID: 1283344495
+      spriteID: 33630471853ef2a4ea84241cfd02e6e9
+      internalID: 850861334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_55
+      name: forest-palette03-day_55
       rect:
         serializedVersion: 2
         x: 176
@@ -1336,14 +1336,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fc87c6cb651ed74bbc4e5d48f76d3f7
-      internalID: -854341965
+      spriteID: 7dcc34925fce75a44ab633a3b29696b8
+      internalID: -103277295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_56
+      name: forest-palette03-day_56
       rect:
         serializedVersion: 2
         x: 224
@@ -1357,14 +1357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6904009189f847749ab52e86c66f43f4
-      internalID: -1532670121
+      spriteID: 6193149340802c64cb097a6f77324cec
+      internalID: 1463227233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_57
+      name: forest-palette03-day_57
       rect:
         serializedVersion: 2
         x: 240
@@ -1378,14 +1378,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cf85d393649e624ab0f0a394f225bf3
-      internalID: -2072933847
+      spriteID: 7e1f9d8f675078f48a5b660592946f49
+      internalID: -1411779996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_58
+      name: forest-palette03-day_58
       rect:
         serializedVersion: 2
         x: 0
@@ -1399,14 +1399,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c57946978909d3649977635be6056ecb
-      internalID: 701798647
+      spriteID: 82f2c29ee6059044c87b5b90f861265a
+      internalID: -2039717451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_59
+      name: forest-palette03-day_59
       rect:
         serializedVersion: 2
         x: 16
@@ -1420,14 +1420,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b84070f93d19aa6428facc2aaf9eee58
-      internalID: 1385079724
+      spriteID: d0bcb882844ed4a459e47f840835b44a
+      internalID: -96444392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_60
+      name: forest-palette03-day_60
       rect:
         serializedVersion: 2
         x: 32
@@ -1441,14 +1441,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 350d86b16965fa1418e527407d3e9344
-      internalID: 1589149291
+      spriteID: 549b75b2df70bea4187ec946e8327daf
+      internalID: 1860777703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_61
+      name: forest-palette03-day_61
       rect:
         serializedVersion: 2
         x: 48
@@ -1462,14 +1462,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72c5287e4eee3ee409c99a256ae1772b
-      internalID: -7740927
+      spriteID: 5cdaffe0797ef58449552a6ccc24f095
+      internalID: -1218769202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_62
+      name: forest-palette03-day_62
       rect:
         serializedVersion: 2
         x: 64
@@ -1483,14 +1483,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54db077b0257bb946b2a4c3f89088272
-      internalID: -1012163897
+      spriteID: 8afb355dc837fb34487ea5fe40325e43
+      internalID: -867718412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_63
+      name: forest-palette03-day_63
       rect:
         serializedVersion: 2
         x: 80
@@ -1504,14 +1504,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbfdea9053dc0a84c9301d91da44df50
-      internalID: -114064120
+      spriteID: 1a6305d15807cfb4e94e198c88374a9b
+      internalID: 1839002134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_64
+      name: forest-palette03-day_64
       rect:
         serializedVersion: 2
         x: 96
@@ -1525,14 +1525,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4374ea7cfa97a8049b9a71c3e837eb6c
-      internalID: -1628424272
+      spriteID: 3f706b1bf131a804aa457d4ea6631bb7
+      internalID: -843205136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_65
+      name: forest-palette03-day_65
       rect:
         serializedVersion: 2
         x: 112
@@ -1546,14 +1546,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6713c3b01ea48f45b5f087897a76536
-      internalID: -2019790269
+      spriteID: 8980a1465e3473f46986fa3c30cf9285
+      internalID: -425030816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_66
+      name: forest-palette03-day_66
       rect:
         serializedVersion: 2
         x: 160
@@ -1567,14 +1567,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d56a5b1719e8929498f26eac520adb67
-      internalID: -1780301656
+      spriteID: 9b0badc807397bc48a313435f1f3860e
+      internalID: -44872966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_67
+      name: forest-palette03-day_67
       rect:
         serializedVersion: 2
         x: 176
@@ -1588,14 +1588,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df9b738f4e6bee44dbc3902b1637aa31
-      internalID: 1237837109
+      spriteID: d1c1e18435ce4fe46a17557e56f7ffdc
+      internalID: -1649301679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_68
+      name: forest-palette03-day_68
       rect:
         serializedVersion: 2
         x: 224
@@ -1609,14 +1609,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58ecb90a020c3534397cc640ec62ad33
-      internalID: -1056500696
+      spriteID: ff47937082442e8488afa1acb2dfa025
+      internalID: 680133888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_69
+      name: forest-palette03-day_69
       rect:
         serializedVersion: 2
         x: 240
@@ -1630,14 +1630,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b55c3f915323e44d8575dbf8c6fcd97
-      internalID: -553533119
+      spriteID: 61f1189ff50bffa40a673c23ab0f6af4
+      internalID: -1232072525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_70
+      name: forest-palette03-day_70
       rect:
         serializedVersion: 2
         x: 0
@@ -1651,14 +1651,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74b13bc00df7f0b478ea0e3c09d1c8f0
-      internalID: -839594952
+      spriteID: 1f5e29c246513bb46a6772d48fb97dd0
+      internalID: 357324991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_71
+      name: forest-palette03-day_71
       rect:
         serializedVersion: 2
         x: 16
@@ -1672,14 +1672,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fff5294702f7d2f4a8bd236c0305c3a6
-      internalID: -1357345623
+      spriteID: 7873dbab116ddeb4f99bcbd64e2b4c35
+      internalID: 1492323293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_72
+      name: forest-palette03-day_72
       rect:
         serializedVersion: 2
         x: 32
@@ -1693,14 +1693,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d28898d05f2edd64e957cef90bde55fb
-      internalID: 1184014042
+      spriteID: bd85ed63ec6e67c4eb0d7162042c555a
+      internalID: 765531655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_73
+      name: forest-palette03-day_73
       rect:
         serializedVersion: 2
         x: 48
@@ -1714,14 +1714,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 233a47ae04ec42847aed3acdd9a91526
-      internalID: 1864560316
+      spriteID: 69fa5539e0327cd408aad52279c514ae
+      internalID: 931510023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_74
+      name: forest-palette03-day_74
       rect:
         serializedVersion: 2
         x: 64
@@ -1735,14 +1735,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91ffa353948e4954b8ce12dc2cdeb36b
-      internalID: 1432580585
+      spriteID: 1eaf550788aac6445a12b30b15bf9814
+      internalID: -157624219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_75
+      name: forest-palette03-day_75
       rect:
         serializedVersion: 2
         x: 80
@@ -1756,14 +1756,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81d1c6d6a4dfaa34ca88d6df11bb5e43
-      internalID: 1881270847
+      spriteID: 91da263430055714b8daaf7c8f4f20d9
+      internalID: -580982343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_76
+      name: forest-palette03-day_76
       rect:
         serializedVersion: 2
         x: 96
@@ -1777,14 +1777,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6868d9ca941967a4c9ca629fb290dcda
-      internalID: -1824421712
+      spriteID: b9c6723f36dfb2247a67d9715b902e2e
+      internalID: 2010705050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_77
+      name: forest-palette03-day_77
       rect:
         serializedVersion: 2
         x: 112
@@ -1798,14 +1798,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f009bed3b52d9438787f46765d049c
-      internalID: -856765165
+      spriteID: 4912f779ca8744147a9bed0af8af61a6
+      internalID: 755904236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_78
+      name: forest-palette03-day_78
       rect:
         serializedVersion: 2
         x: 192
@@ -1819,14 +1819,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0479550d74577dc4ba0d8b5c5b2d59bb
-      internalID: 138878981
+      spriteID: 3bd5c89c37f24d84b830a96bfda77a9b
+      internalID: -150248500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_79
+      name: forest-palette03-day_79
       rect:
         serializedVersion: 2
         x: 208
@@ -1840,14 +1840,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fd561309a148b444ba078f26c375996
-      internalID: -1264825546
+      spriteID: 5aa816bd72a13264b96cac691b5d1963
+      internalID: -65765728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_80
+      name: forest-palette03-day_80
       rect:
         serializedVersion: 2
         x: 224
@@ -1861,14 +1861,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b77d962af93752e49a464eceb96504e6
-      internalID: 2128371310
+      spriteID: bd4a511bae03c254086206de0b9576cb
+      internalID: -986326515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_81
+      name: forest-palette03-day_81
       rect:
         serializedVersion: 2
         x: 240
@@ -1882,14 +1882,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80f2412316560894c9f857658c4621b8
-      internalID: -1225767395
+      spriteID: bfc74fe54d31825469b33532e1d73d39
+      internalID: -81516997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_82
+      name: forest-palette03-day_82
       rect:
         serializedVersion: 2
         x: 112
@@ -1903,14 +1903,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 570812ae97d28374f9a18dc14e19df13
-      internalID: -1922706193
+      spriteID: 622f817342daa4e41bdcd978ea148dc8
+      internalID: -284533127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_83
+      name: forest-palette03-day_83
       rect:
         serializedVersion: 2
         x: 128
@@ -1924,14 +1924,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f8625de215847544a855f486bb67d73
-      internalID: 1675024344
+      spriteID: be8f32193958cc04e9e1476f6fb39a50
+      internalID: -110619684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_84
+      name: forest-palette03-day_84
       rect:
         serializedVersion: 2
         x: 144
@@ -1945,14 +1945,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fac403d2e4e26d4a8bb36fc3d3a73ec
-      internalID: -1262313842
+      spriteID: 3d1f8d4d802ba764fb7c8edbfc4238e7
+      internalID: -1729319341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_85
+      name: forest-palette03-day_85
       rect:
         serializedVersion: 2
         x: 160
@@ -1966,14 +1966,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d617baffc21d6e448dd7ef1d342064e
-      internalID: 1805159597
+      spriteID: dd1418a113459cb4f91682384826d7e3
+      internalID: -1602640369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_86
+      name: forest-palette03-day_86
       rect:
         serializedVersion: 2
         x: 176
@@ -1987,14 +1987,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c802757dcbd52a3489f3864418088bf1
-      internalID: -325552935
+      spriteID: 15e463d238767b4498f26fceacebbca4
+      internalID: 1422503561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_87
+      name: forest-palette03-day_87
       rect:
         serializedVersion: 2
         x: 192
@@ -2008,14 +2008,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fa98e6e7486f524a9ec54aada525c65
-      internalID: 490231075
+      spriteID: 726dc5d764e4c26428807705711fe49a
+      internalID: -112575800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_88
+      name: forest-palette03-day_88
       rect:
         serializedVersion: 2
         x: 208
@@ -2029,14 +2029,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcb9d745fe286f643ae654877efd338d
-      internalID: -192997452
+      spriteID: 78acd5df1ad37bd4b9cde6d18a936cb6
+      internalID: 1458846013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_89
+      name: forest-palette03-day_89
       rect:
         serializedVersion: 2
         x: 224
@@ -2050,14 +2050,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ec2df9c8eaff6d4ebb66651f398c64b
-      internalID: -670699324
+      spriteID: 150899d457036fb4080dfa0ba5001d56
+      internalID: 851505138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_90
+      name: forest-palette03-day_90
       rect:
         serializedVersion: 2
         x: 240
@@ -2071,14 +2071,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29fe72b08b19f724080afc64c69e8851
-      internalID: -881098930
+      spriteID: 339a21bdee897e049998d5869174a5fa
+      internalID: -393086571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_91
+      name: forest-palette03-day_91
       rect:
         serializedVersion: 2
         x: 0
@@ -2092,14 +2092,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbcf8218009a6a64080f8385dfc9fe92
-      internalID: 87195665
+      spriteID: 003860938404b8b46a007fc2e6aafdb5
+      internalID: -1136288296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_92
+      name: forest-palette03-day_92
       rect:
         serializedVersion: 2
         x: 16
@@ -2113,14 +2113,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c178b91255098f94ab2c52b45f861d9d
-      internalID: -689302234
+      spriteID: 0dfebc720b4ed924ab9803646f498c3f
+      internalID: 237103012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_93
+      name: forest-palette03-day_93
       rect:
         serializedVersion: 2
         x: 32
@@ -2134,14 +2134,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44b878a94db6e8a41bbc9e2c1c5c10e4
-      internalID: -881037028
+      spriteID: 4a536f284e1fc7d4da077dd3df72d7d6
+      internalID: -2100209212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_94
+      name: forest-palette03-day_94
       rect:
         serializedVersion: 2
         x: 48
@@ -2155,14 +2155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7088e3aa7cab4744a932525fc7fb5da
-      internalID: 1760350930
+      spriteID: 091016e237456ba4399c2b1a105c0f5b
+      internalID: 188425925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_95
+      name: forest-palette03-day_95
       rect:
         serializedVersion: 2
         x: 64
@@ -2176,14 +2176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54d95da435254ed478f87665d88b85e3
-      internalID: -1914753340
+      spriteID: 192c20e73d9006041957968ec12d8105
+      internalID: 510464871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_96
+      name: forest-palette03-day_96
       rect:
         serializedVersion: 2
         x: 80
@@ -2197,14 +2197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff1a92daaf82b8a4099b283fcf1cc115
-      internalID: 360488413
+      spriteID: d1a6820d792b4da41a517a3d2382413e
+      internalID: -1129106311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_97
+      name: forest-palette03-day_97
       rect:
         serializedVersion: 2
         x: 96
@@ -2218,14 +2218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4c7f9d4b83eaa042a86cb06789fe7b1
-      internalID: -601483905
+      spriteID: 41d5f21b18cb67c41bed0cfa76d5366a
+      internalID: 323968343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_98
+      name: forest-palette03-day_98
       rect:
         serializedVersion: 2
         x: 112
@@ -2239,14 +2239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94d7987ac6ab96e4c9e937d3e5302296
-      internalID: -1404059109
+      spriteID: a06ce2c70a1090b42bb63e24f073e35c
+      internalID: -891491225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_99
+      name: forest-palette03-day_99
       rect:
         serializedVersion: 2
         x: 128
@@ -2260,14 +2260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e913d1480846da04f9d389d8760e85a8
-      internalID: 1917414906
+      spriteID: 999cf81facc602741ad663a88168d995
+      internalID: -1305986078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_100
+      name: forest-palette03-day_100
       rect:
         serializedVersion: 2
         x: 144
@@ -2281,14 +2281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 083904ed879c3494291955715c6e9b81
-      internalID: 845473351
+      spriteID: 37e240beacc900b44bd69b1cb595e9a4
+      internalID: -1893280078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_101
+      name: forest-palette03-day_101
       rect:
         serializedVersion: 2
         x: 160
@@ -2302,14 +2302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2faeca80ddd978a4db1123929953adc2
-      internalID: 557112839
+      spriteID: 3ac97cb1144574b498ba7251697754e6
+      internalID: 1879370125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_102
+      name: forest-palette03-day_102
       rect:
         serializedVersion: 2
         x: 176
@@ -2323,14 +2323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29b58544d3e0d784fb8ba332391d3ff5
-      internalID: 358117079
+      spriteID: 946f979a2d9b0594898bee3f70f5047e
+      internalID: -920184896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_103
+      name: forest-palette03-day_103
       rect:
         serializedVersion: 2
         x: 192
@@ -2344,14 +2344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ff0692411e7fd344b53de5596ec5c85
-      internalID: 713123884
+      spriteID: 8583c06ec38f4604fbb5d9ed58818641
+      internalID: -1817676726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_104
+      name: forest-palette03-day_104
       rect:
         serializedVersion: 2
         x: 208
@@ -2365,14 +2365,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 316db3bcf77edb644823bbc423c00709
-      internalID: 770515918
+      spriteID: cefa03bfdbae26248b8eb237862a94f9
+      internalID: -489424615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_105
+      name: forest-palette03-day_105
       rect:
         serializedVersion: 2
         x: 224
@@ -2386,14 +2386,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbf340be7f8265646abe82397358aba6
-      internalID: 1356893469
+      spriteID: 5c3656b4b324c314fbd8f219bdb752ed
+      internalID: 2086791986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_106
+      name: forest-palette03-day_106
       rect:
         serializedVersion: 2
         x: 240
@@ -2407,14 +2407,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ee4d8adae0ab6249b42a86ab04ce340
-      internalID: -285383073
+      spriteID: 87d889c176ca6a44b97d0e1a3d07d3be
+      internalID: -2084699749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_107
+      name: forest-palette03-day_107
       rect:
         serializedVersion: 2
         x: 0
@@ -2428,14 +2428,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5e9131f6643fa94cb6103f02f76bcb8
-      internalID: -1034065132
+      spriteID: 27ea8a6e9e0cb144580f06dc7e6bc6d7
+      internalID: 430859837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_108
+      name: forest-palette03-day_108
       rect:
         serializedVersion: 2
         x: 16
@@ -2449,14 +2449,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9de4d116361716848910ed7236ca8b62
-      internalID: -978549283
+      spriteID: a2c33bb1b5e51ba48ace8b576d0be9b3
+      internalID: 600697599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_109
+      name: forest-palette03-day_109
       rect:
         serializedVersion: 2
         x: 32
@@ -2470,14 +2470,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6fffa7d84f63d748ad2c611f3a458a6
-      internalID: 873885854
+      spriteID: 0986bffee1845df44b6c107bb65011ab
+      internalID: -952329679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_110
+      name: forest-palette03-day_110
       rect:
         serializedVersion: 2
         x: 48
@@ -2491,14 +2491,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fce2e7c96d859a449a104fbb17499ca5
-      internalID: 1929758953
+      spriteID: 9ac6c187716f62149afdea6689f8eb61
+      internalID: -1343200753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_111
+      name: forest-palette03-day_111
       rect:
         serializedVersion: 2
         x: 64
@@ -2512,14 +2512,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58c6bd65781dad84d886ab800cc16483
-      internalID: 575824359
+      spriteID: 7edaa7b7109cc4a43903c743b2a5b1a2
+      internalID: -1601553594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_112
+      name: forest-palette03-day_112
       rect:
         serializedVersion: 2
         x: 80
@@ -2533,14 +2533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83ad9900a1c748043b519de61f6d4870
-      internalID: -172698332
+      spriteID: 2b7b02741afe2404080fc3a2a373a04c
+      internalID: -1644907687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_113
+      name: forest-palette03-day_113
       rect:
         serializedVersion: 2
         x: 96
@@ -2554,14 +2554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80e323d9745a55049ad793071e2fd902
-      internalID: -1300768221
+      spriteID: ed47f38e84185c648b4667a5c465cef5
+      internalID: 54952442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_114
+      name: forest-palette03-day_114
       rect:
         serializedVersion: 2
         x: 112
@@ -2575,14 +2575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95b2bc32e86c2ee46b0399c89a76d0fc
-      internalID: -1139544628
+      spriteID: 6991bf18d7c175e4db3471e780654dea
+      internalID: 1208316026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_115
+      name: forest-palette03-day_115
       rect:
         serializedVersion: 2
         x: 128
@@ -2596,14 +2596,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d23cdb9ed550454f880b0512e25e806
-      internalID: 1297464638
+      spriteID: 3548be8b849471942afdbaded18f6b81
+      internalID: 1126087424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_116
+      name: forest-palette03-day_116
       rect:
         serializedVersion: 2
         x: 144
@@ -2617,14 +2617,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f2356056ddb3894c99d08718772f13f
-      internalID: 700393241
+      spriteID: 5f8224f0bae72bd46ba57f974bdbb372
+      internalID: -253927328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_117
+      name: forest-palette03-day_117
       rect:
         serializedVersion: 2
         x: 160
@@ -2638,14 +2638,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8ed39170864adc4f92343a682b685ad
-      internalID: -1915631824
+      spriteID: 7a23c41e1c63d7a498730a0338a89d58
+      internalID: 1450115132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_118
+      name: forest-palette03-day_118
       rect:
         serializedVersion: 2
         x: 176
@@ -2659,14 +2659,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f55b4f07a8456e74b9dd0b3387670ae1
-      internalID: -1835142658
+      spriteID: 2eeea1a36b41bfc40a21b02f527f879b
+      internalID: 537512937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_119
+      name: forest-palette03-day_119
       rect:
         serializedVersion: 2
         x: 192
@@ -2680,14 +2680,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f24d0ee4da9347498cc71ac734497c7
-      internalID: -1721015455
+      spriteID: 7813d321d398f494f8d83e5326cfb6b9
+      internalID: 37970383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_120
+      name: forest-palette03-day_120
       rect:
         serializedVersion: 2
         x: 208
@@ -2701,14 +2701,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 849441f2b177e9a4fa1bc3ad86e89d23
-      internalID: -288480848
+      spriteID: fcdd9fdb21d4d9b4baf88376cf557704
+      internalID: 1633847938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_121
+      name: forest-palette03-day_121
       rect:
         serializedVersion: 2
         x: 224
@@ -2722,14 +2722,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83a3bad6938d5c047a50382ebb6364ca
-      internalID: 285192569
+      spriteID: 4a17091b400fbb847a1bb12f92cd4786
+      internalID: -1429925406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_122
+      name: forest-palette03-day_122
       rect:
         serializedVersion: 2
         x: 240
@@ -2743,14 +2743,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a22d52a75190d1a4bb4bf985a4acaac1
-      internalID: 2117138810
+      spriteID: 36cc6700ab13aad46a70359c6f8c1365
+      internalID: 696973893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_123
+      name: forest-palette03-day_123
       rect:
         serializedVersion: 2
         x: 0
@@ -2764,14 +2764,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6518fea1c94e604c98ae43d3422bcad
-      internalID: 763527425
+      spriteID: 4efb24bd0992de846afcae998e89564a
+      internalID: -226104702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_124
+      name: forest-palette03-day_124
       rect:
         serializedVersion: 2
         x: 16
@@ -2785,14 +2785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f65d5c51a654acd40afe9255af4c3d32
-      internalID: -139390485
+      spriteID: 11e00888650169241a574a930293aced
+      internalID: 1378441462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_125
+      name: forest-palette03-day_125
       rect:
         serializedVersion: 2
         x: 48
@@ -2806,14 +2806,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 539a023d3d65e594a9a5f0c0ac1c6e65
-      internalID: -268293718
+      spriteID: b3b112305371b8e4b996ee71180a243b
+      internalID: -618064764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_126
+      name: forest-palette03-day_126
       rect:
         serializedVersion: 2
         x: 64
@@ -2827,14 +2827,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fd7091c90d02c3478e06a8505e338c2
-      internalID: -2011022551
+      spriteID: 31e23f9dd06de2943b0d1ab9f6695d25
+      internalID: -1086117790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_127
+      name: forest-palette03-day_127
       rect:
         serializedVersion: 2
         x: 80
@@ -2848,14 +2848,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5ffd3c65ddc62b4e9dd83befd7e9dec
-      internalID: 938105381
+      spriteID: 319ba3a8c86fc88408efc3ddf0327a2a
+      internalID: 216789052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_128
+      name: forest-palette03-day_128
       rect:
         serializedVersion: 2
         x: 96
@@ -2869,14 +2869,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06e961a0195006d48a7bf68496b34d3a
-      internalID: -394402952
+      spriteID: b8becfb83b282c14e9b0aa06124fca40
+      internalID: -492732341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_129
+      name: forest-palette03-day_129
       rect:
         serializedVersion: 2
         x: 112
@@ -2890,14 +2890,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d77e9bc0a4b56df4f874e1456fe0ccf0
-      internalID: 606859758
+      spriteID: 4b933a9a9ab72eb418198c6ebe16fe08
+      internalID: 837710819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_130
+      name: forest-palette03-day_130
       rect:
         serializedVersion: 2
         x: 128
@@ -2911,14 +2911,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb17f8f80c5a4a4449cf56d670fb0da7
-      internalID: -287841056
+      spriteID: c967858949346c74aa505704fc0aeac5
+      internalID: -437597243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_131
+      name: forest-palette03-day_131
       rect:
         serializedVersion: 2
         x: 144
@@ -2932,14 +2932,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11f39e717f7ea004faff19cd12483be4
-      internalID: -584223224
+      spriteID: 3242f7a896b095448afd549b84594af4
+      internalID: 1038880174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_132
+      name: forest-palette03-day_132
       rect:
         serializedVersion: 2
         x: 160
@@ -2953,14 +2953,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55df19df38f97114195ab7a2a87d0122
-      internalID: 91512693
+      spriteID: 59069653c10fd7b48bf674584b282534
+      internalID: -1154166167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_133
+      name: forest-palette03-day_133
       rect:
         serializedVersion: 2
         x: 176
@@ -2974,14 +2974,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c92a8050205e0e4a9058f65d6bdc5be
-      internalID: -1003590689
+      spriteID: a263af3837d4b27448a3d97bee86df91
+      internalID: 1322080043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_134
+      name: forest-palette03-day_134
       rect:
         serializedVersion: 2
         x: 192
@@ -2995,14 +2995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f51c635bb77351843bfbb6ecf3cce7f1
-      internalID: 2090070976
+      spriteID: f90478ee1531d024daad172f71c8a8f0
+      internalID: 573714332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_135
+      name: forest-palette03-day_135
       rect:
         serializedVersion: 2
         x: 208
@@ -3016,14 +3016,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61cc623ea917af84999acc8d38de3875
-      internalID: 1184259658
+      spriteID: 6525d5e3b7e95b74eaabd27bfd45d0fe
+      internalID: 1482623452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_136
+      name: forest-palette03-day_136
       rect:
         serializedVersion: 2
         x: 224
@@ -3037,14 +3037,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ce33f842ac569e4190bacc280eb6aa7
-      internalID: -497031174
+      spriteID: 886fd78f925ae864fa3fce306d0d20c6
+      internalID: 1988678060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_137
+      name: forest-palette03-day_137
       rect:
         serializedVersion: 2
         x: 240
@@ -3058,14 +3058,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f8b5194a366b794f960e284b6f637e6
-      internalID: 270390532
+      spriteID: e2545ec4e8d47eb41bc59000e9bb75c6
+      internalID: -2023124053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_138
+      name: forest-palette03-day_138
       rect:
         serializedVersion: 2
         x: 0
@@ -3079,14 +3079,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f154c4bd96f43742b6451ebb4d7ffa5
-      internalID: 953249652
+      spriteID: 8763da0a924bfba4cbb1af50d3572a26
+      internalID: 589137392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_139
+      name: forest-palette03-day_139
       rect:
         serializedVersion: 2
         x: 16
@@ -3100,14 +3100,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18a34e3a447633148a642925a49cd068
-      internalID: 995075635
+      spriteID: ac67c28c240ac564f8b0313011024f67
+      internalID: 476798418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_140
+      name: forest-palette03-day_140
       rect:
         serializedVersion: 2
         x: 64
@@ -3121,14 +3121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2005fdd936ccbe540a887f05476052fe
-      internalID: -1674882123
+      spriteID: ad4227ea0d2e17b4ab99dab2f5bf4d45
+      internalID: 547979967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_141
+      name: forest-palette03-day_141
       rect:
         serializedVersion: 2
         x: 80
@@ -3142,14 +3142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ec2dc00014b74e4aaa16f3ab0686f31
-      internalID: -1882714077
+      spriteID: fd34f93bf07ca90458febdc8a5588220
+      internalID: -1977885617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_142
+      name: forest-palette03-day_142
       rect:
         serializedVersion: 2
         x: 96
@@ -3163,14 +3163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0280b6c945aaf874faded2420b9d2455
-      internalID: 818175871
+      spriteID: 9b14305fc0f68a34e9a986215f96aaa8
+      internalID: 658439226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_143
+      name: forest-palette03-day_143
       rect:
         serializedVersion: 2
         x: 112
@@ -3184,14 +3184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e194f74cb61a4948b9283ab033be8df
-      internalID: 798907447
+      spriteID: b489e62716341b24fbd9769120aa5cbd
+      internalID: -49160617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_144
+      name: forest-palette03-day_144
       rect:
         serializedVersion: 2
         x: 128
@@ -3205,14 +3205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ae19d02f7757d6498fe8178554c9d55
-      internalID: -2146776372
+      spriteID: 2047b35ada4f8134b833355a813a29c3
+      internalID: 82031448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_145
+      name: forest-palette03-day_145
       rect:
         serializedVersion: 2
         x: 144
@@ -3226,14 +3226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccbbeba2f795b7b42916e64097d6f796
-      internalID: 933595688
+      spriteID: bf2b98e33cfb9c246b71e30faf81e8c5
+      internalID: 1886892744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_146
+      name: forest-palette03-day_146
       rect:
         serializedVersion: 2
         x: 160
@@ -3247,14 +3247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1456b49ab9a852e46867434f2b884ced
-      internalID: -1600586678
+      spriteID: c1a83929f47817b4a9f0639d9b59c7ad
+      internalID: -682404864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_147
+      name: forest-palette03-day_147
       rect:
         serializedVersion: 2
         x: 176
@@ -3268,14 +3268,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4511fb7a6c7e15b4da74c121bbf4eaf4
-      internalID: -2020193040
+      spriteID: e42fea5a861b74d41b4f7a2481156f2b
+      internalID: 1618879187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_148
+      name: forest-palette03-day_148
       rect:
         serializedVersion: 2
         x: 192
@@ -3289,14 +3289,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d9c99fec88cacc42b55a9ffd9028660
-      internalID: -367834319
+      spriteID: a07bd519ea3d3c741b9525540711c493
+      internalID: -1580684327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_149
+      name: forest-palette03-day_149
       rect:
         serializedVersion: 2
         x: 208
@@ -3310,14 +3310,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 905433b6eaec120409c8b78b8859b0f3
-      internalID: 1227210571
+      spriteID: da9b984a69831e140b6ee19c43c32e1d
+      internalID: -1301389901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_150
+      name: forest-palette03-day_150
       rect:
         serializedVersion: 2
         x: 224
@@ -3331,14 +3331,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea52d3ba1345f41488aa6175ef96972c
-      internalID: -2039728535
+      spriteID: c88dfe54408fa5443a2ee7af08aa926a
+      internalID: -213400865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_151
+      name: forest-palette03-day_151
       rect:
         serializedVersion: 2
         x: 240
@@ -3352,14 +3352,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9518140cf9dd824ab1c59f1b6b95d9c
-      internalID: 1388636594
+      spriteID: e977372d3d2f2d349905b386d49ffbfd
+      internalID: 1686786917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_152
+      name: forest-palette03-day_152
       rect:
         serializedVersion: 2
         x: 0
@@ -3373,14 +3373,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8b27a484877bab4ba5c76dbdb2ad126
-      internalID: -491718640
+      spriteID: 1e8de539688eddf43b5d34261a107f4d
+      internalID: -1935334643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_153
+      name: forest-palette03-day_153
       rect:
         serializedVersion: 2
         x: 16
@@ -3394,14 +3394,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ac12abd8c571c7478e7f43ebfb5e8fe
-      internalID: 652647776
+      spriteID: ae198deef4ae8354d98c69f123357734
+      internalID: 942052086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_154
+      name: forest-palette03-day_154
       rect:
         serializedVersion: 2
         x: 64
@@ -3415,14 +3415,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87bd8aa085cb915478a08556852dc5b9
-      internalID: 1647687875
+      spriteID: bdd73b70305f6244a8cd90e9d158d6ea
+      internalID: 1289864499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_155
+      name: forest-palette03-day_155
       rect:
         serializedVersion: 2
         x: 96
@@ -3436,14 +3436,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fa599ca1bcd7b943befebc8c499e397
-      internalID: -1309299914
+      spriteID: 31a76e4e5b1d3494b8274e2c9f578dde
+      internalID: -915552156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_156
+      name: forest-palette03-day_156
       rect:
         serializedVersion: 2
         x: 112
@@ -3457,14 +3457,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcf543b20c0e8a941814691de9b6b70e
-      internalID: -842927548
+      spriteID: 6fb4f3948841f4b4cb383066d8daad6a
+      internalID: -1707341993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_157
+      name: forest-palette03-day_157
       rect:
         serializedVersion: 2
         x: 128
@@ -3478,14 +3478,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30c8864d0b888864a88a83f2d8c7eca9
-      internalID: -2113952096
+      spriteID: 4bdc2d2b850bf74428eb3163890cbef2
+      internalID: -313969170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_158
+      name: forest-palette03-day_158
       rect:
         serializedVersion: 2
         x: 144
@@ -3499,14 +3499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e742ead9c1368b44a83256084b7df75
-      internalID: -1868094243
+      spriteID: e870b597463c3e94b9fd50022e69a159
+      internalID: -2034628449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_159
+      name: forest-palette03-day_159
       rect:
         serializedVersion: 2
         x: 160
@@ -3520,14 +3520,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cb6dd76b22a36a408fd98d1cfcbca0c
-      internalID: -2103495151
+      spriteID: be795b0a42d59764282d9891a3a170fe
+      internalID: -757838893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_160
+      name: forest-palette03-day_160
       rect:
         serializedVersion: 2
         x: 176
@@ -3541,14 +3541,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d368a3ef2b182841907a59084d91c88
-      internalID: 426363229
+      spriteID: 050790fc8d46b6d488b561f7e0a6bc26
+      internalID: 885936942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_161
+      name: forest-palette03-day_161
       rect:
         serializedVersion: 2
         x: 192
@@ -3562,14 +3562,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fcc6cde620f640429b634d56a2a801a
-      internalID: 1026756784
+      spriteID: 4d65ddd5875c6b041acfaa5343a66a67
+      internalID: 1723910653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_162
+      name: forest-palette03-day_162
       rect:
         serializedVersion: 2
         x: 208
@@ -3583,14 +3583,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca4a7ef8ef8f0fc47b9785c5322fd954
-      internalID: -1955509590
+      spriteID: 292c738d85c0a364bb5895ccdc524495
+      internalID: -1394375120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_163
+      name: forest-palette03-day_163
       rect:
         serializedVersion: 2
         x: 224
@@ -3604,14 +3604,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e6d6b37060dfd14db5278d3bd56f089
-      internalID: -1617560863
+      spriteID: dbe7e909c67574a489c4d02beb23d555
+      internalID: 1622769899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_164
+      name: forest-palette03-day_164
       rect:
         serializedVersion: 2
         x: 240
@@ -3625,14 +3625,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ebfd2963af3f95459c1f3af907a3634
-      internalID: 1761811279
+      spriteID: 1dd37e3420f3c89478f568ac5ffe2fcf
+      internalID: 47987057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_165
+      name: forest-palette03-day_165
       rect:
         serializedVersion: 2
         x: 48
@@ -3646,14 +3646,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7590f8053bd53534692b9dc2fb0c30bd
-      internalID: 1909368233
+      spriteID: 7c8dec7cb2eab374a9d479014021c564
+      internalID: -2699930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_166
+      name: forest-palette03-day_166
       rect:
         serializedVersion: 2
         x: 64
@@ -3667,14 +3667,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 829273fffa2a6dd4d83200e615de1fee
-      internalID: -634794065
+      spriteID: 30bd358945858854181778707b7f0186
+      internalID: -2126617367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_167
+      name: forest-palette03-day_167
       rect:
         serializedVersion: 2
         x: 80
@@ -3688,14 +3688,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a3f9a7de1a8c4e4d820843629d3bf58
-      internalID: 1605186752
+      spriteID: 0e17dec83432e14448930851b100e12d
+      internalID: 252889724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_168
+      name: forest-palette03-day_168
       rect:
         serializedVersion: 2
         x: 96
@@ -3709,14 +3709,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b85a2e04c747ad4e8ee0f711c14970f
-      internalID: 2122059469
+      spriteID: 7c38db004548feb4589090f1e3d71ae8
+      internalID: -1554991632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_169
+      name: forest-palette03-day_169
       rect:
         serializedVersion: 2
         x: 112
@@ -3730,14 +3730,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac9365a5ce975ea43b5562bb9722e37e
-      internalID: -758728744
+      spriteID: 1fa0e5fb4d1148f4694d16664071e6a0
+      internalID: 1284312291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_170
+      name: forest-palette03-day_170
       rect:
         serializedVersion: 2
         x: 128
@@ -3751,14 +3751,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f550191ed2d59240a54e439da445dc6
-      internalID: -206453383
+      spriteID: 8ae75bb6da147924c98c78c04048e13e
+      internalID: 1957473373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_171
+      name: forest-palette03-day_171
       rect:
         serializedVersion: 2
         x: 144
@@ -3772,14 +3772,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 550eb0bae51425e46b0267f13282bdaf
-      internalID: -968153006
+      spriteID: fde0fa02a8a237b46a3bf731b910d178
+      internalID: 2084271452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_172
+      name: forest-palette03-day_172
       rect:
         serializedVersion: 2
         x: 160
@@ -3793,14 +3793,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d62f66f02ee7c3418b0ceefbe6e4519
-      internalID: -12080006
+      spriteID: a0afb91ae9953454b91d1bfd8ae103c7
+      internalID: -1311500381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_173
+      name: forest-palette03-day_173
       rect:
         serializedVersion: 2
         x: 176
@@ -3814,14 +3814,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d980f80ba128ae34998256fcac072d46
-      internalID: 1704172620
+      spriteID: 214e78802ca3db541a6647b3afa16c32
+      internalID: 1434878447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_174
+      name: forest-palette03-day_174
       rect:
         serializedVersion: 2
         x: 192
@@ -3835,14 +3835,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a1642d20664f514e8c7bb21deed5c73
-      internalID: 324934965
+      spriteID: 127c8f84a2d720746a55961fb5c58066
+      internalID: -1124238974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_175
+      name: forest-palette03-day_175
       rect:
         serializedVersion: 2
         x: 208
@@ -3856,14 +3856,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1016b669adac9b489130432a4411346
-      internalID: 1598019727
+      spriteID: 3c36045c23957cb49a06778de7b2db2a
+      internalID: -323099034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_176
+      name: forest-palette03-day_176
       rect:
         serializedVersion: 2
         x: 224
@@ -3877,14 +3877,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd93c71131eabea46a271c9f7d36546e
-      internalID: 664971334
+      spriteID: 43259994d5d27754aad58804f4d9172a
+      internalID: 1695010956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_177
+      name: forest-palette03-day_177
       rect:
         serializedVersion: 2
         x: 240
@@ -3898,14 +3898,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3017057fa310d464c89833799f1fde22
-      internalID: -1988682744
+      spriteID: d10b7b293f93fdd4394378161e07b833
+      internalID: -1716519236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_178
+      name: forest-palette03-day_178
       rect:
         serializedVersion: 2
         x: 112
@@ -3919,14 +3919,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ab9a2db0f9b7c24bb13ffef1adaf019
-      internalID: 1683470862
+      spriteID: e19485334f5c7fe48b9cc2e152ccf6a0
+      internalID: 600692719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_179
+      name: forest-palette03-day_179
       rect:
         serializedVersion: 2
         x: 128
@@ -3940,14 +3940,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d461606a2cfd19e4a905cf6317726ab8
-      internalID: -579120960
+      spriteID: 91008644dae91b7419f464350dd93701
+      internalID: -46394539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_180
+      name: forest-palette03-day_180
       rect:
         serializedVersion: 2
         x: 144
@@ -3961,14 +3961,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a898ca9cf7fe5ae4f8a9dba88e4e999f
-      internalID: -1577210698
+      spriteID: bac4a003385f19c4396b37a079cd4dee
+      internalID: 1710495860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_181
+      name: forest-palette03-day_181
       rect:
         serializedVersion: 2
         x: 160
@@ -3982,14 +3982,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: affe4adf066dcb74aaf2e41d5b90a16e
-      internalID: 254581685
+      spriteID: 9c0f63ac3b4c7304b855936013f32aef
+      internalID: 208031152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_182
+      name: forest-palette03-day_182
       rect:
         serializedVersion: 2
         x: 176
@@ -4003,14 +4003,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68a1d864435f65140826f92e351bbb37
-      internalID: 1696407513
+      spriteID: f77c29d10fbf57e419ac0459dcbd6546
+      internalID: 1565812339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_183
+      name: forest-palette03-day_183
       rect:
         serializedVersion: 2
         x: 192
@@ -4024,14 +4024,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 896c627cc30e4e34582f892d269a890c
-      internalID: -963544161
+      spriteID: d4f9372d135c21747bb24e69c43bb616
+      internalID: -125447601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_184
+      name: forest-palette03-day_184
       rect:
         serializedVersion: 2
         x: 208
@@ -4045,14 +4045,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba6b39089e154234aa3d93ea44e9723a
-      internalID: 1373963792
+      spriteID: 288fddfa3819c9c4195d2c1b58a32e7d
+      internalID: 1770623937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_185
+      name: forest-palette03-day_185
       rect:
         serializedVersion: 2
         x: 224
@@ -4066,14 +4066,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 376524943afe5854f9e138a820c207cc
-      internalID: 1763733565
+      spriteID: 739036cc977d7da44a531583167114a9
+      internalID: -56358601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_186
+      name: forest-palette03-day_186
       rect:
         serializedVersion: 2
         x: 240
@@ -4087,14 +4087,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79b0baccd182802408b350d2f9d976dc
-      internalID: -1162988871
+      spriteID: d9e93322636e6384c86314fcbc2df978
+      internalID: -566836088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_187
+      name: forest-palette03-day_187
       rect:
         serializedVersion: 2
         x: 0
@@ -4108,14 +4108,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8bd7a01a61c78e45b84098c57fb0312
-      internalID: -1154612001
+      spriteID: 3060d6b14eaad1140921a8d4631f0766
+      internalID: -1797934915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_188
+      name: forest-palette03-day_188
       rect:
         serializedVersion: 2
         x: 16
@@ -4129,14 +4129,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4880278e4db2d02479ab126b1cb0c0a9
-      internalID: 2042149450
+      spriteID: 7a9b3aff0fe2dde4d98bfe2a62b64a20
+      internalID: 678241100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_189
+      name: forest-palette03-day_189
       rect:
         serializedVersion: 2
         x: 32
@@ -4150,14 +4150,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 114e5a984bf7c5248a2a1c8c001b10f2
-      internalID: -1044714151
+      spriteID: 04ec6642b6b3fd34f970dca0742b0757
+      internalID: -1317799113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_190
+      name: forest-palette03-day_190
       rect:
         serializedVersion: 2
         x: 112
@@ -4171,14 +4171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 453caf61ea742db43a2b5c8ee6584762
-      internalID: -111727709
+      spriteID: c99cccdcefc89ef4a9539c625f850667
+      internalID: -1306243771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_191
+      name: forest-palette03-day_191
       rect:
         serializedVersion: 2
         x: 128
@@ -4192,14 +4192,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d682cee694037e4c976749725db071b
-      internalID: -1092553297
+      spriteID: 5fcfd59c26cc8704ab8f839ae3dc60ee
+      internalID: 756134999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_192
+      name: forest-palette03-day_192
       rect:
         serializedVersion: 2
         x: 144
@@ -4213,14 +4213,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5dc0b72e1da8ae4aa3694a9aa850ad0
-      internalID: -1306661996
+      spriteID: 199c3acd89255cc4c9ec68986259df57
+      internalID: 504991327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_193
+      name: forest-palette03-day_193
       rect:
         serializedVersion: 2
         x: 160
@@ -4234,14 +4234,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9e47c45ddc3fd14b92d501f5b45c93c
-      internalID: -1686265288
+      spriteID: 68eb5d743e2b3ba45b62f7a7f6a20f96
+      internalID: -1299192797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_194
+      name: forest-palette03-day_194
       rect:
         serializedVersion: 2
         x: 176
@@ -4255,14 +4255,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b15b94ca82c17a842807454f5f6bc6c4
-      internalID: -1315988608
+      spriteID: 6e9354b9b0831ca4a8cfada2e1bdbf2c
+      internalID: -195215631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_195
+      name: forest-palette03-day_195
       rect:
         serializedVersion: 2
         x: 192
@@ -4276,14 +4276,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45f0a538b2886d8499183b48e9f4dd12
-      internalID: 117697516
+      spriteID: 71ee64c4820bd4e4f9545f6e1bd28090
+      internalID: 1059255273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_196
+      name: forest-palette03-day_196
       rect:
         serializedVersion: 2
         x: 208
@@ -4297,14 +4297,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e253dfa182104b42886a4cfc5d7efb2
-      internalID: 1710718822
+      spriteID: a2bbe5742f53550409f361ac7b6ff6fa
+      internalID: -902698313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_197
+      name: forest-palette03-day_197
       rect:
         serializedVersion: 2
         x: 224
@@ -4318,14 +4318,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c57d92e4a2e95642b9665b9b44e43a1
-      internalID: 1549661989
+      spriteID: 550a6a8584bd92e488d585966737a40f
+      internalID: 1828570783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_198
+      name: forest-palette03-day_198
       rect:
         serializedVersion: 2
         x: 240
@@ -4339,14 +4339,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2869e02848f8d82478c63616093d83be
-      internalID: 2000683037
+      spriteID: 3b0a0fa1cd48ccd44a35f64a08b7078f
+      internalID: -1848058385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_199
+      name: forest-palette03-day_199
       rect:
         serializedVersion: 2
         x: 0
@@ -4360,14 +4360,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df6e969585ae0304cb0b0b255d8ed827
-      internalID: 138030120
+      spriteID: 5744ca8066cd97c44b3a4db17a9ba52d
+      internalID: 77611700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_200
+      name: forest-palette03-day_200
       rect:
         serializedVersion: 2
         x: 16
@@ -4381,14 +4381,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d81362599da6e1e48b676c14445b098c
-      internalID: 290670892
+      spriteID: 839497671dfb30a4fab449f0db53168a
+      internalID: -1584134097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_201
+      name: forest-palette03-day_201
       rect:
         serializedVersion: 2
         x: 32
@@ -4402,14 +4402,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75fb9ebd47a7da542975965ae2f2e5aa
-      internalID: 397651107
+      spriteID: a5d7b6509c10dee488533e69202c2846
+      internalID: 1968048937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_202
+      name: forest-palette03-day_202
       rect:
         serializedVersion: 2
         x: 48
@@ -4423,14 +4423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7907732198111a4692751a064e23966
-      internalID: -251104378
+      spriteID: 293f0079ff4d590459db094ff3484ac9
+      internalID: 1141748107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_203
+      name: forest-palette03-day_203
       rect:
         serializedVersion: 2
         x: 64
@@ -4444,14 +4444,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfef3212184f2b94f81cc34de53e37e8
-      internalID: -514149173
+      spriteID: 8b2300c0eec76264bb85badcc4f0dcb2
+      internalID: -798641139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_204
+      name: forest-palette03-day_204
       rect:
         serializedVersion: 2
         x: 80
@@ -4465,14 +4465,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dace0e52a660e5c41a43b7f48a275a76
-      internalID: 408956422
+      spriteID: 2655abdc15259f64a8afbbf9af1f74ca
+      internalID: 1471642907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_205
+      name: forest-palette03-day_205
       rect:
         serializedVersion: 2
         x: 96
@@ -4486,14 +4486,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 579535dbfbcc9594bb19acf7ce60f982
-      internalID: -1990000891
+      spriteID: 63b8d232e0e621f4e8a92be6118db061
+      internalID: 275962231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_206
+      name: forest-palette03-day_206
       rect:
         serializedVersion: 2
         x: 112
@@ -4507,14 +4507,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40afd5c430092c746b4d179555573b8b
-      internalID: 1872070668
+      spriteID: 62a1724afc5a3924caea6eeda29281d6
+      internalID: -20193497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_207
+      name: forest-palette03-day_207
       rect:
         serializedVersion: 2
         x: 128
@@ -4528,14 +4528,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6def716eba8fca1408a9b75e47acad44
-      internalID: -1486327863
+      spriteID: c3920fb7a950d974bb689274abdd99c5
+      internalID: 1737258971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_208
+      name: forest-palette03-day_208
       rect:
         serializedVersion: 2
         x: 144
@@ -4549,14 +4549,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e13eb5916b6744f4b888c723c50d5870
-      internalID: -436553117
+      spriteID: a934162a322759f408f5cff3b987750b
+      internalID: -168412926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_209
+      name: forest-palette03-day_209
       rect:
         serializedVersion: 2
         x: 160
@@ -4570,14 +4570,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e171747b1cf64f344b2bd52aa93c20dc
-      internalID: -1161931015
+      spriteID: d72a83fd2aabbfc4b9e8deb11f78ef74
+      internalID: 377061157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_210
+      name: forest-palette03-day_210
       rect:
         serializedVersion: 2
         x: 176
@@ -4591,14 +4591,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e84ba2dbe2799c48b1d868f8c984769
-      internalID: -1751125170
+      spriteID: 78d63d96ee1a6794f8c6946152acc3a6
+      internalID: -1239771901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_211
+      name: forest-palette03-day_211
       rect:
         serializedVersion: 2
         x: 192
@@ -4612,14 +4612,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fff69de8e159874f89bf420deebf8ce
-      internalID: 1058297702
+      spriteID: 899618beb4476a248af2deca5321c8b2
+      internalID: 121194950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_212
+      name: forest-palette03-day_212
       rect:
         serializedVersion: 2
         x: 208
@@ -4633,14 +4633,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0161fdefce644134c8217fcffc96c3b8
-      internalID: -208621489
+      spriteID: ce5b0c4567503a7428723551b2c7590c
+      internalID: 861555883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_213
+      name: forest-palette03-day_213
       rect:
         serializedVersion: 2
         x: 224
@@ -4654,14 +4654,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cce9fe2330ee614d8a815b03f99e35e
-      internalID: -1604794968
+      spriteID: 1fff4c6dac61df041ad90a29ec3ce3f2
+      internalID: -581620756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_214
+      name: forest-palette03-day_214
       rect:
         serializedVersion: 2
         x: 240
@@ -4675,14 +4675,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4303ab9cef2c4a1408d7d5d9ac1da6cd
-      internalID: -1625832928
+      spriteID: 4f5343089b7dbd0499b2cb3c76ee0057
+      internalID: 631326919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_215
+      name: forest-palette03-day_215
       rect:
         serializedVersion: 2
         x: 0
@@ -4696,14 +4696,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1629b2a5c15ba5c40b6a66f2efa73b7d
-      internalID: 589140567
+      spriteID: d3480c571069fd844952399ec47d6f0d
+      internalID: 1069703536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_216
+      name: forest-palette03-day_216
       rect:
         serializedVersion: 2
         x: 16
@@ -4717,14 +4717,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3d2169968ba5be4599153d38d081b8c
-      internalID: -759523085
+      spriteID: 90731c36c1e090c4b8e960b770683704
+      internalID: -632169663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_217
+      name: forest-palette03-day_217
       rect:
         serializedVersion: 2
         x: 32
@@ -4738,14 +4738,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1aa1cdb7c7b0d9040bdb75b567a21d1e
-      internalID: 1630100287
+      spriteID: f9d7f51de67c88044968d994a9c95f0f
+      internalID: -1084053645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_218
+      name: forest-palette03-day_218
       rect:
         serializedVersion: 2
         x: 48
@@ -4759,14 +4759,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a009c59956051b342ba54fa4ab417ebb
-      internalID: 901300175
+      spriteID: 40228e406c7adb641bb68e7dca06974d
+      internalID: 1361111699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_219
+      name: forest-palette03-day_219
       rect:
         serializedVersion: 2
         x: 64
@@ -4780,14 +4780,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dca41ddb09ca0374a80a2bad55bc0aef
-      internalID: -1877198410
+      spriteID: 36108f84363a5f44b95c911ec9484db8
+      internalID: -1445308705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_220
+      name: forest-palette03-day_220
       rect:
         serializedVersion: 2
         x: 80
@@ -4801,14 +4801,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b816d087a384454a9edcae94d3a5e2d
-      internalID: -1213719942
+      spriteID: a29d1d6f3a2574244a4c201388c6c515
+      internalID: 654934685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_221
+      name: forest-palette03-day_221
       rect:
         serializedVersion: 2
         x: 96
@@ -4822,14 +4822,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57571efb87cbf69459d8aa6376f44896
-      internalID: -698617465
+      spriteID: dc660fc02d27d1b4cb78c11313990786
+      internalID: 1738387542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_222
+      name: forest-palette03-day_222
       rect:
         serializedVersion: 2
         x: 112
@@ -4843,14 +4843,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0c6168fe827911458f1d63eeb9e7d86
-      internalID: -1098076771
+      spriteID: 1f52d8dc00dc2654eae3baa9487f7949
+      internalID: 348518991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_223
+      name: forest-palette03-day_223
       rect:
         serializedVersion: 2
         x: 128
@@ -4864,14 +4864,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2c8674480c824345bb104fde1ab76cf
-      internalID: 1067143477
+      spriteID: a2af772c50ab11d40be72624cbe12eeb
+      internalID: -786144397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_224
+      name: forest-palette03-day_224
       rect:
         serializedVersion: 2
         x: 144
@@ -4885,14 +4885,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: baa43cfd358ea714c8e964cb3633ffff
-      internalID: 817126819
+      spriteID: 7651b7582a837e543b5d4d46bac1bea6
+      internalID: -313538219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_225
+      name: forest-palette03-day_225
       rect:
         serializedVersion: 2
         x: 160
@@ -4906,14 +4906,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ad3332fd31048a47bf0a58228401e65
-      internalID: -1359514703
+      spriteID: 7eb0767921bda8d4cbd6e5fdc25cd2b3
+      internalID: 1902678713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_226
+      name: forest-palette03-day_226
       rect:
         serializedVersion: 2
         x: 176
@@ -4927,14 +4927,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 097c7447bc088bb479989eaad5967633
-      internalID: 1011059829
+      spriteID: 6322a1ddfaf6414498140dd9db0b8200
+      internalID: 200321401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_227
+      name: forest-palette03-day_227
       rect:
         serializedVersion: 2
         x: 192
@@ -4948,14 +4948,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c98f8d91175601e4ba5e7637ccd6aca8
-      internalID: -1389450650
+      spriteID: ecc8c73d2c0cc944894ef676949253bc
+      internalID: -1639275323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_228
+      name: forest-palette03-day_228
       rect:
         serializedVersion: 2
         x: 208
@@ -4969,14 +4969,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b242839548f909c46aa1abb504685123
-      internalID: -63450955
+      spriteID: 1db70e41b9846dc458df4f73c2dfbbf5
+      internalID: 494962275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_229
+      name: forest-palette03-day_229
       rect:
         serializedVersion: 2
         x: 224
@@ -4990,14 +4990,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4c1252d6b3cb5d468c0d64b754500f8
-      internalID: -2520743
+      spriteID: 4fa3ad46b7ceceb4282963e341cae27b
+      internalID: 1903703753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: forest-palette03-night_230
+      name: forest-palette03-day_230
       rect:
         serializedVersion: 2
         x: 240
@@ -5011,8 +5011,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecc90571b38c72f49b56a86914f1deff
-      internalID: -549699887
+      spriteID: 3a6521fe044ca0845a54a4906331f729
+      internalID: -74194736
       vertices: []
       indices: 
       edges: []
@@ -5028,237 +5028,237 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      forest-palette03-night_143: 798907447
-      forest-palette03-night_85: 1805159597
-      forest-palette03-night_202: -251104378
-      forest-palette03-night_95: -1914753340
-      forest-palette03-night_30: 345052681
-      forest-palette03-night_223: 1067143477
-      forest-palette03-night_167: 1605186752
-      forest-palette03-night_122: 2117138810
-      forest-palette03-night_41: -1139785425
-      forest-palette03-night_186: -1162988871
-      forest-palette03-night_161: 1026756784
-      forest-palette03-night_36: -390050046
-      forest-palette03-night_119: -1721015455
-      forest-palette03-night_205: -1990000891
-      forest-palette03-night_169: -758728744
-      forest-palette03-night_174: 324934965
-      forest-palette03-night_34: 311839150
-      forest-palette03-night_151: 1388636594
-      forest-palette03-night_188: 2042149450
-      forest-palette03-night_197: 1549661989
-      forest-palette03-night_162: -1955509590
-      forest-palette03-night_23: 707406553
-      forest-palette03-night_18: 266040288
-      forest-palette03-night_124: -139390485
-      forest-palette03-night_65: -2019790269
-      forest-palette03-night_123: 763527425
-      forest-palette03-night_3: 403982920
-      forest-palette03-night_94: 1760350930
-      forest-palette03-night_200: 290670892
-      forest-palette03-night_203: -514149173
-      forest-palette03-night_216: -759523085
-      forest-palette03-night_86: -325552935
-      forest-palette03-night_7: 1424402405
-      forest-palette03-night_75: 1881270847
-      forest-palette03-night_185: 1763733565
-      forest-palette03-night_66: -1780301656
-      forest-palette03-night_17: 2113810214
-      forest-palette03-night_31: 1001927158
-      forest-palette03-night_38: -1641948288
-      forest-palette03-night_166: -634794065
-      forest-palette03-night_178: 1683470862
-      forest-palette03-night_193: -1686265288
-      forest-palette03-night_215: 589140567
-      forest-palette03-night_37: 1468368469
-      forest-palette03-night_229: -2520743
-      forest-palette03-night_120: -288480848
-      forest-palette03-night_177: -1988682744
-      forest-palette03-night_25: -26483322
-      forest-palette03-night_29: -740628484
-      forest-palette03-night_43: 1248127678
-      forest-palette03-night_60: 1589149291
-      forest-palette03-night_209: -1161931015
-      forest-palette03-night_52: -646989568
-      forest-palette03-night_126: -2011022551
-      forest-palette03-night_99: 1917414906
-      forest-palette03-night_192: -1306661996
-      forest-palette03-night_149: 1227210571
-      forest-palette03-night_210: -1751125170
-      forest-palette03-night_74: 1432580585
-      forest-palette03-night_9: 338738372
-      forest-palette03-night_71: -1357345623
-      forest-palette03-night_138: 953249652
-      forest-palette03-night_44: -1934288467
-      forest-palette03-night_159: -2103495151
-      forest-palette03-night_183: -963544161
-      forest-palette03-night_33: -350654905
-      forest-palette03-night_104: 770515918
-      forest-palette03-night_118: -1835142658
-      forest-palette03-night_220: -1213719942
-      forest-palette03-night_218: 901300175
-      forest-palette03-night_107: -1034065132
-      forest-palette03-night_181: 254581685
-      forest-palette03-night_103: 713123884
-      forest-palette03-night_213: -1604794968
-      forest-palette03-night_110: 1929758953
-      forest-palette03-night_8: 295324757
-      forest-palette03-night_128: -394402952
-      forest-palette03-night_47: -1474100987
-      forest-palette03-night_184: 1373963792
-      forest-palette03-night_12: 1402729347
-      forest-palette03-night_87: 490231075
-      forest-palette03-night_70: -839594952
-      forest-palette03-night_62: -1012163897
-      forest-palette03-night_83: 1675024344
-      forest-palette03-night_98: -1404059109
-      forest-palette03-night_221: -698617465
-      forest-palette03-night_153: 652647776
-      forest-palette03-night_133: -1003590689
-      forest-palette03-night_130: -287841056
-      forest-palette03-night_168: 2122059469
-      forest-palette03-night_61: -7740927
-      forest-palette03-night_144: -2146776372
-      forest-palette03-night_208: -436553117
-      forest-palette03-night_173: 1704172620
-      forest-palette03-night_84: -1262313842
-      forest-palette03-night_48: -873267741
-      forest-palette03-night_139: 995075635
-      forest-palette03-night_152: -491718640
-      forest-palette03-night_182: 1696407513
-      forest-palette03-night_76: -1824421712
-      forest-palette03-night_56: -1532670121
-      forest-palette03-night_150: -2039728535
-      forest-palette03-night_106: -285383073
-      forest-palette03-night_171: -968153006
-      forest-palette03-night_1: 1809571960
-      forest-palette03-night_6: -109165046
-      forest-palette03-night_64: -1628424272
-      forest-palette03-night_154: 1647687875
-      forest-palette03-night_2: 1710395544
-      forest-palette03-night_135: 1184259658
-      forest-palette03-night_26: -77925589
-      forest-palette03-night_57: -2072933847
-      forest-palette03-night_19: 2095216875
-      forest-palette03-night_163: -1617560863
-      forest-palette03-night_55: -854341965
-      forest-palette03-night_137: 270390532
-      forest-palette03-night_212: -208621489
-      forest-palette03-night_112: -172698332
-      forest-palette03-night_0: -2053885271
-      forest-palette03-night_175: 1598019727
-      forest-palette03-night_82: -1922706193
-      forest-palette03-night_39: 1529273179
-      forest-palette03-night_92: -689302234
-      forest-palette03-night_157: -2113952096
-      forest-palette03-night_4: 359507733
-      forest-palette03-night_22: -1495059763
-      forest-palette03-night_91: 87195665
-      forest-palette03-night_217: 1630100287
-      forest-palette03-night_11: 2054283573
-      forest-palette03-night_63: -114064120
-      forest-palette03-night_73: 1864560316
-      forest-palette03-night_165: 1909368233
-      forest-palette03-night_24: -1600863076
-      forest-palette03-night_156: -842927548
-      forest-palette03-night_121: 285192569
-      forest-palette03-night_111: 575824359
-      forest-palette03-night_116: 700393241
-      forest-palette03-night_227: -1389450650
-      forest-palette03-night_54: 1283344495
-      forest-palette03-night_68: -1056500696
-      forest-palette03-night_225: -1359514703
-      forest-palette03-night_96: 360488413
-      forest-palette03-night_21: -1835427472
-      forest-palette03-night_224: 817126819
-      forest-palette03-night_191: -1092553297
-      forest-palette03-night_147: -2020193040
-      forest-palette03-night_113: -1300768221
-      forest-palette03-night_90: -881098930
-      forest-palette03-night_35: 270373071
-      forest-palette03-night_134: 2090070976
-      forest-palette03-night_207: -1486327863
-      forest-palette03-night_219: -1877198410
-      forest-palette03-night_59: 1385079724
-      forest-palette03-night_109: 873885854
-      forest-palette03-night_199: 138030120
-      forest-palette03-night_179: -579120960
-      forest-palette03-night_131: -584223224
-      forest-palette03-night_141: -1882714077
-      forest-palette03-night_127: 938105381
-      forest-palette03-night_45: -1190613567
-      forest-palette03-night_158: -1868094243
-      forest-palette03-night_198: 2000683037
-      forest-palette03-night_204: 408956422
-      forest-palette03-night_100: 845473351
-      forest-palette03-night_228: -63450955
-      forest-palette03-night_50: -1582448979
-      forest-palette03-night_42: 87353331
-      forest-palette03-night_132: 91512693
-      forest-palette03-night_195: 117697516
-      forest-palette03-night_93: -881037028
-      forest-palette03-night_136: -497031174
-      forest-palette03-night_40: 1608856790
-      forest-palette03-night_102: 358117079
-      forest-palette03-night_125: -268293718
-      forest-palette03-night_58: 701798647
-      forest-palette03-night_222: -1098076771
-      forest-palette03-night_51: -918974643
-      forest-palette03-night_46: -605662999
-      forest-palette03-night_176: 664971334
-      forest-palette03-night_13: -1392985325
-      forest-palette03-night_20: 1150465995
-      forest-palette03-night_142: 818175871
-      forest-palette03-night_15: 1905842986
-      forest-palette03-night_78: 138878981
-      forest-palette03-night_97: -601483905
-      forest-palette03-night_155: -1309299914
-      forest-palette03-night_187: -1154612001
-      forest-palette03-night_226: 1011059829
-      forest-palette03-night_79: -1264825546
-      forest-palette03-night_88: -192997452
-      forest-palette03-night_28: 1169419149
-      forest-palette03-night_160: 426363229
-      forest-palette03-night_115: 1297464638
-      forest-palette03-night_170: -206453383
-      forest-palette03-night_72: 1184014042
-      forest-palette03-night_172: -12080006
-      forest-palette03-night_189: -1044714151
-      forest-palette03-night_81: -1225767395
-      forest-palette03-night_89: -670699324
-      forest-palette03-night_108: -978549283
-      forest-palette03-night_53: 1313940934
-      forest-palette03-night_49: 1889595334
-      forest-palette03-night_180: -1577210698
-      forest-palette03-night_117: -1915631824
-      forest-palette03-night_146: -1600586678
-      forest-palette03-night_230: -549699887
-      forest-palette03-night_101: 557112839
-      forest-palette03-night_67: 1237837109
-      forest-palette03-night_80: 2128371310
-      forest-palette03-night_214: -1625832928
-      forest-palette03-night_140: -1674882123
-      forest-palette03-night_14: -670499145
-      forest-palette03-night_114: -1139544628
-      forest-palette03-night_105: 1356893469
-      forest-palette03-night_145: 933595688
-      forest-palette03-night_190: -111727709
-      forest-palette03-night_148: -367834319
-      forest-palette03-night_211: 1058297702
-      forest-palette03-night_5: -486933046
-      forest-palette03-night_27: -57938276
-      forest-palette03-night_16: -1277809111
-      forest-palette03-night_196: 1710718822
-      forest-palette03-night_164: 1761811279
-      forest-palette03-night_206: 1872070668
-      forest-palette03-night_10: -2071883287
-      forest-palette03-night_69: -553533119
-      forest-palette03-night_77: -856765165
-      forest-palette03-night_32: 853519372
-      forest-palette03-night_129: 606859758
-      forest-palette03-night_194: -1315988608
-      forest-palette03-night_201: 397651107
+      forest-palette03-day_98: -891491225
+      forest-palette03-day_134: 573714332
+      forest-palette03-day_188: 678241100
+      forest-palette03-day_161: 1723910653
+      forest-palette03-day_172: -1311500381
+      forest-palette03-day_229: 1903703753
+      forest-palette03-day_8: 1617551380
+      forest-palette03-day_217: -1084053645
+      forest-palette03-day_77: 755904236
+      forest-palette03-day_164: 47987057
+      forest-palette03-day_150: -213400865
+      forest-palette03-day_202: 1141748107
+      forest-palette03-day_186: -566836088
+      forest-palette03-day_81: -81516997
+      forest-palette03-day_190: -1306243771
+      forest-palette03-day_101: 1879370125
+      forest-palette03-day_142: 658439226
+      forest-palette03-day_210: -1239771901
+      forest-palette03-day_125: -618064764
+      forest-palette03-day_26: 1714290562
+      forest-palette03-day_30: 1170203400
+      forest-palette03-day_146: -682404864
+      forest-palette03-day_184: 1770623937
+      forest-palette03-day_60: 1860777703
+      forest-palette03-day_200: -1584134097
+      forest-palette03-day_122: 696973893
+      forest-palette03-day_143: -49160617
+      forest-palette03-day_194: -195215631
+      forest-palette03-day_68: 680133888
+      forest-palette03-day_195: 1059255273
+      forest-palette03-day_76: 2010705050
+      forest-palette03-day_13: 495198532
+      forest-palette03-day_209: 377061157
+      forest-palette03-day_118: 537512937
+      forest-palette03-day_45: -1791638553
+      forest-palette03-day_123: -226104702
+      forest-palette03-day_155: -915552156
+      forest-palette03-day_61: -1218769202
+      forest-palette03-day_177: -1716519236
+      forest-palette03-day_95: 510464871
+      forest-palette03-day_193: -1299192797
+      forest-palette03-day_191: 756134999
+      forest-palette03-day_171: 2084271452
+      forest-palette03-day_222: 348518991
+      forest-palette03-day_185: -56358601
+      forest-palette03-day_204: 1471642907
+      forest-palette03-day_158: -2034628449
+      forest-palette03-day_148: -1580684327
+      forest-palette03-day_159: -757838893
+      forest-palette03-day_15: 704558747
+      forest-palette03-day_2: 777123183
+      forest-palette03-day_127: 216789052
+      forest-palette03-day_129: 837710819
+      forest-palette03-day_173: 1434878447
+      forest-palette03-day_215: 1069703536
+      forest-palette03-day_22: 170578028
+      forest-palette03-day_133: 1322080043
+      forest-palette03-day_64: -843205136
+      forest-palette03-day_28: -165989192
+      forest-palette03-day_75: -580982343
+      forest-palette03-day_144: 82031448
+      forest-palette03-day_206: -20193497
+      forest-palette03-day_132: -1154166167
+      forest-palette03-day_84: -1729319341
+      forest-palette03-day_225: 1902678713
+      forest-palette03-day_151: 1686786917
+      forest-palette03-day_36: -753761536
+      forest-palette03-day_216: -632169663
+      forest-palette03-day_110: -1343200753
+      forest-palette03-day_11: -1669967185
+      forest-palette03-day_114: 1208316026
+      forest-palette03-day_120: 1633847938
+      forest-palette03-day_0: 523788787
+      forest-palette03-day_203: -798641139
+      forest-palette03-day_70: 357324991
+      forest-palette03-day_167: 252889724
+      forest-palette03-day_49: -1407017350
+      forest-palette03-day_80: -986326515
+      forest-palette03-day_214: 631326919
+      forest-palette03-day_56: 1463227233
+      forest-palette03-day_73: 931510023
+      forest-palette03-day_149: -1301389901
+      forest-palette03-day_31: -836301544
+      forest-palette03-day_85: -1602640369
+      forest-palette03-day_223: -786144397
+      forest-palette03-day_162: -1394375120
+      forest-palette03-day_180: 1710495860
+      forest-palette03-day_44: 1035256759
+      forest-palette03-day_39: 1857461723
+      forest-palette03-day_93: -2100209212
+      forest-palette03-day_4: -177370547
+      forest-palette03-day_34: 1572845140
+      forest-palette03-day_52: -174422540
+      forest-palette03-day_196: -902698313
+      forest-palette03-day_38: 1191432082
+      forest-palette03-day_102: -920184896
+      forest-palette03-day_66: -44872966
+      forest-palette03-day_163: 1622769899
+      forest-palette03-day_117: 1450115132
+      forest-palette03-day_24: 1791909346
+      forest-palette03-day_16: -1135818964
+      forest-palette03-day_106: -2084699749
+      forest-palette03-day_53: 1685591181
+      forest-palette03-day_62: -867718412
+      forest-palette03-day_41: -205003290
+      forest-palette03-day_111: -1601553594
+      forest-palette03-day_230: -74194736
+      forest-palette03-day_212: 861555883
+      forest-palette03-day_18: -1344678042
+      forest-palette03-day_78: -150248500
+      forest-palette03-day_218: 1361111699
+      forest-palette03-day_201: 1968048937
+      forest-palette03-day_211: 121194950
+      forest-palette03-day_112: -1644907687
+      forest-palette03-day_86: 1422503561
+      forest-palette03-day_156: -1707341993
+      forest-palette03-day_157: -313969170
+      forest-palette03-day_63: 1839002134
+      forest-palette03-day_82: -284533127
+      forest-palette03-day_7: -458318423
+      forest-palette03-day_74: -157624219
+      forest-palette03-day_12: -367580841
+      forest-palette03-day_40: -1009384471
+      forest-palette03-day_137: -2023124053
+      forest-palette03-day_71: 1492323293
+      forest-palette03-day_226: 200321401
+      forest-palette03-day_170: 1957473373
+      forest-palette03-day_131: 1038880174
+      forest-palette03-day_115: 1126087424
+      forest-palette03-day_220: 654934685
+      forest-palette03-day_136: 1988678060
+      forest-palette03-day_69: -1232072525
+      forest-palette03-day_91: -1136288296
+      forest-palette03-day_103: -1817676726
+      forest-palette03-day_166: -2126617367
+      forest-palette03-day_47: 2098704245
+      forest-palette03-day_105: 2086791986
+      forest-palette03-day_135: 1482623452
+      forest-palette03-day_42: -1596352429
+      forest-palette03-day_165: -2699930
+      forest-palette03-day_116: -253927328
+      forest-palette03-day_5: 968316202
+      forest-palette03-day_55: -103277295
+      forest-palette03-day_197: 1828570783
+      forest-palette03-day_224: -313538219
+      forest-palette03-day_145: 1886892744
+      forest-palette03-day_97: 323968343
+      forest-palette03-day_6: 1811710784
+      forest-palette03-day_198: -1848058385
+      forest-palette03-day_59: -96444392
+      forest-palette03-day_109: -952329679
+      forest-palette03-day_113: 54952442
+      forest-palette03-day_9: 1395646645
+      forest-palette03-day_14: 1442803988
+      forest-palette03-day_152: -1935334643
+      forest-palette03-day_207: 1737258971
+      forest-palette03-day_58: -2039717451
+      forest-palette03-day_37: -1113478827
+      forest-palette03-day_57: -1411779996
+      forest-palette03-day_228: 494962275
+      forest-palette03-day_19: 1682074137
+      forest-palette03-day_178: 600692719
+      forest-palette03-day_141: -1977885617
+      forest-palette03-day_192: 504991327
+      forest-palette03-day_88: 1458846013
+      forest-palette03-day_104: -489424615
+      forest-palette03-day_50: 924299228
+      forest-palette03-day_181: 208031152
+      forest-palette03-day_65: -425030816
+      forest-palette03-day_94: 188425925
+      forest-palette03-day_89: 851505138
+      forest-palette03-day_35: 1859367567
+      forest-palette03-day_121: -1429925406
+      forest-palette03-day_72: 765531655
+      forest-palette03-day_10: 991925270
+      forest-palette03-day_25: -659187187
+      forest-palette03-day_29: 1641333762
+      forest-palette03-day_3: 558921002
+      forest-palette03-day_17: -1238357191
+      forest-palette03-day_128: -492732341
+      forest-palette03-day_208: -168412926
+      forest-palette03-day_153: 942052086
+      forest-palette03-day_183: -125447601
+      forest-palette03-day_126: -1086117790
+      forest-palette03-day_154: 1289864499
+      forest-palette03-day_107: 430859837
+      forest-palette03-day_54: 850861334
+      forest-palette03-day_100: -1893280078
+      forest-palette03-day_174: -1124238974
+      forest-palette03-day_187: -1797934915
+      forest-palette03-day_20: 1923008318
+      forest-palette03-day_119: 37970383
+      forest-palette03-day_221: 1738387542
+      forest-palette03-day_176: 1695010956
+      forest-palette03-day_227: -1639275323
+      forest-palette03-day_189: -1317799113
+      forest-palette03-day_51: 299260642
+      forest-palette03-day_43: 1467225316
+      forest-palette03-day_83: -110619684
+      forest-palette03-day_169: 1284312291
+      forest-palette03-day_27: -929521841
+      forest-palette03-day_179: -46394539
+      forest-palette03-day_96: -1129106311
+      forest-palette03-day_160: 885936942
+      forest-palette03-day_147: 1618879187
+      forest-palette03-day_108: 600697599
+      forest-palette03-day_205: 275962231
+      forest-palette03-day_46: 583148521
+      forest-palette03-day_21: -341409291
+      forest-palette03-day_32: -333617573
+      forest-palette03-day_175: -323099034
+      forest-palette03-day_219: -1445308705
+      forest-palette03-day_79: -65765728
+      forest-palette03-day_48: -1748424107
+      forest-palette03-day_1: -845675305
+      forest-palette03-day_140: 547979967
+      forest-palette03-day_138: 589137392
+      forest-palette03-day_213: -581620756
+      forest-palette03-day_130: -437597243
+      forest-palette03-day_182: 1565812339
+      forest-palette03-day_67: -1649301679
+      forest-palette03-day_90: -393086571
+      forest-palette03-day_99: -1305986078
+      forest-palette03-day_92: 237103012
+      forest-palette03-day_139: 476798418
+      forest-palette03-day_33: 276342508
+      forest-palette03-day_23: 1893560593
+      forest-palette03-day_124: 1378441462
+      forest-palette03-day_199: 77611700
+      forest-palette03-day_87: -112575800
+      forest-palette03-day_168: -1554991632
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
