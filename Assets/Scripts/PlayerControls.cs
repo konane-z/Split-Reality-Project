@@ -9,6 +9,7 @@ public class PlayerControls : MonoBehaviour
     bool facingRight;
     public Animator anim;
     private Hash hash;
+    public int speed = 10;
   
 
 
@@ -66,7 +67,7 @@ public class PlayerControls : MonoBehaviour
             anim.SetFloat(hash.speedFloat, 2.0f);
 
             // Move the player using the Rigidbody2D component's MovePosition method
-            rb.MovePosition(rb.position + direction * 1 * Time.fixedDeltaTime);
+            rb.MovePosition(rb.position + direction * speed * Time.fixedDeltaTime);
 
             if (touchPos.x - transform.position.x > 0 && facingRight)
             {
