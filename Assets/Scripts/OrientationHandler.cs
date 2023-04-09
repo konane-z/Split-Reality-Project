@@ -12,31 +12,32 @@ public class OrientationHandler : MonoBehaviour
     private Camera mainCamera;
     public float cameraSizePortrait = 10f;
     public float cameraSizeLandscape = 15f;
+    private ScreenOrientation previousOrientation;
 
     void Start()
     {
         mainCamera = Camera.main;
+        previousOrientation = Screen.orientation;
     }
-
-   
-
 
     private void Update()
     {
-       
+        if (Screen.orientation != previousOrientation)
+        {
+            previousOrientation = Screen.orientation;
 
-        if (Input.deviceOrientation == DeviceOrientation.Portrait)
-        {
-            portraitObject.SetActive(true);
-            landscapeObject.SetActive(false);
-            mainCamera.orthographicSize = cameraSizePortrait;
-        }
-        else if (Input.deviceOrientation == DeviceOrientation.LandscapeLeft)
-        {
-           
-            portraitObject.SetActive(false);
-            landscapeObject.SetActive(true);
-            mainCamera.orthographicSize = cameraSizeLandscape;
+            if (Screen.orientation == ScreenOrientation.Portrait || Screen.orientation == ScreenOrientation.PortraitUpsideDown)
+            {
+                portraitObject.SetActive(true);
+                landscapeObject.SetActive(false);
+                mainCamera.orthographicSize = cameraSizePortrait;
+            }
+            else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
+            {
+                portraitObject.SetActive(false);
+                landscapeObject.SetActive(true);
+                mainCamera.orthographicSize = cameraSizeLandscape;
+            }
         }
     }
 }
