@@ -18,6 +18,20 @@ public class OrientationHandler : MonoBehaviour
     {
         mainCamera = Camera.main;
         previousOrientation = Screen.orientation;
+
+        // Determine current screen orientation and enable/disable objects accordingly
+        if (Screen.orientation == ScreenOrientation.Portrait || Screen.orientation == ScreenOrientation.PortraitUpsideDown)
+        {
+            portraitObject.SetActive(true);
+            landscapeObject.SetActive(false);
+            mainCamera.orthographicSize = cameraSizePortrait;
+        }
+        else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
+        {
+            portraitObject.SetActive(false);
+            landscapeObject.SetActive(true);
+            mainCamera.orthographicSize = cameraSizeLandscape;
+        }
     }
 
     private void Update()

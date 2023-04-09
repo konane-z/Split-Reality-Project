@@ -8,89 +8,10 @@ public class PlayerControls : MonoBehaviour
 {
     public Rigidbody2D rb;
     public Vector2 movement;
-    bool facingRight;
+    bool facingRight = true;
     public Animator anim;
-    public int speed = 10;
-    public Button upButton;
-    public Button downButton;
-    public Button leftButton;
-    public Button rightButton;
-    public Button upButtonNight;
-    public Button downButtonNight;
-    public Button leftButtonNight;
-    public Button rightButtonNight;
-    bool upButtonPressed;
-    bool downButtonPressed;
-    bool leftButtonPressed;
-    bool rightButtonPressed;
-    bool upButtonNightPressed;
-    bool downButtonNightPressed;
-    bool leftButtonNightPressed;
-    bool rightButtonNightPressed;
-    public void OnUpButtonPress()
-    {
-        upButtonPressed = true;
-    }
-    public void OnUpButtonRelease()
-    {
-        upButtonPressed = false;
-    }
-    public void OnLeftButtonPress()
-    {
-        leftButtonPressed = true;
-    }
-    public void OnLeftButtonRelease()
-    {
-        leftButtonPressed = false;
-    }
-    public void OnRightButtonPress()
-    {
-        rightButtonPressed = true;
-    }
-    public void OnRightButtonRelease()
-    {
-        rightButtonPressed = false;
-    }
-    public void OnDownButtonPress()
-    {
-        downButtonPressed = true;
-    }
-    public void OnDownButtonRelease()
-    {
-        downButtonPressed = false;
-    }
-    public void OnUpButtonNightPress()
-    {
-        upButtonNightPressed = true;
-    }
-    public void OnUpButtonNightRelease()
-    {
-        upButtonNightPressed = false;
-    }
-    public void OnLeftButtonNightPress()
-    {
-        leftButtonNightPressed = true;
-    }
-    public void OnLeftButtonNightRelease()
-    {
-        leftButtonNightPressed = false;
-    }
-    public void OnRightButtonNightPress()
-    {
-        rightButtonNightPressed = true;
-    }
-    public void OnRightButtonNightRelease()
-    {
-        rightButtonNightPressed = false;
-    }
-    public void OnDownButtonNightPress()
-    {
-        downButtonNightPressed = true;
-    }
-    public void OnDownButtonNightRelease()
-    {
-        downButtonNightPressed = false;
-    }
+    public int speed = 5;
+    
 
     private void Awake()
     {
@@ -119,25 +40,8 @@ public class PlayerControls : MonoBehaviour
 
     void ButtonMove()
     {
-        float horizontalInput = 0.0f;
-        float verticalInput = 0.0f;
-
-        if (upButtonPressed)
-        {
-            verticalInput += 1.0f;
-        }
-        if (downButtonPressed)
-        {
-            verticalInput -= 1.0f;
-        }
-        if (leftButtonPressed)
-        {
-            horizontalInput -= 1.0f;
-        }
-        if (rightButtonPressed)
-        {
-            horizontalInput += 1.0f;
-        }
+        float horizontalInput = SimpleInput.GetAxisRaw("Horizontal");
+        float verticalInput = SimpleInput.GetAxisRaw("Vertical");
 
         // Normalize the input vector so that diagonal movement isn't faster
         Vector2 movementInput = new Vector2(horizontalInput, verticalInput).normalized;
@@ -157,6 +61,7 @@ public class PlayerControls : MonoBehaviour
             Flip();
         }
     }
+
     // Fliping the texture
     void Flip()
     {
@@ -170,11 +75,11 @@ public class PlayerControls : MonoBehaviour
     {
         if (Screen.orientation == ScreenOrientation.Portrait || Screen.orientation == ScreenOrientation.PortraitUpsideDown)
         {
-            anim.SetBool("Night", true);
+            anim.SetBool("Night", false);
         }
         else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
         {
-            anim.SetBool("Night", false);
+            anim.SetBool("Night", true);
         }
     }
 }

@@ -6,18 +6,18 @@ using UnityEngine;
 public class CanvasController : MonoBehaviour
 {
     public GameObject canvasObject;
-    private DeviceOrientation originalOrientation;
+    private ScreenOrientation originalOrientation;
     private bool canvasActive = false;
-    public float displayTime = 2.0f;
+    public float displayTime = 10.0f;
 
     void Start()
     {
-        originalOrientation = Input.deviceOrientation;
+        originalOrientation = Screen.orientation;
     }
 
     void Update()
     {
-        if (Input.deviceOrientation != originalOrientation && !canvasActive)
+        if (Screen.orientation != originalOrientation && !canvasActive)
         {
             canvasObject.SetActive(true);
             Invoke("DisableCanvas", displayTime);
