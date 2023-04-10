@@ -38,7 +38,7 @@ public class PlayerControls : MonoBehaviour
         ButtonMove();
     }
 
-    void ButtonMove()
+    public void ButtonMove()
     {
         float horizontalInput = SimpleInput.GetAxisRaw("Horizontal");
         float verticalInput = SimpleInput.GetAxisRaw("Vertical");

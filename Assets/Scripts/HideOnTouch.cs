@@ -1,13 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
-
+using UnityEngine.TextCore.Text;
 using UnityEngine.UI;
 
 public class HideOnTouch : MonoBehaviour
 {
     // Reference to the image you want to hide
     public Image imageToHide;
+    public TextMeshProUGUI textToHide;
 
     void Update()
     {
@@ -22,6 +24,7 @@ public class HideOnTouch : MonoBehaviour
             {
                 // Hide the image
                 imageToHide.enabled = false;
+                textToHide.enabled = false;
             }
         }
     }
