@@ -6,6 +6,8 @@ using UnityEngine.UI;
 
 public class PlayerControls : MonoBehaviour
 {
+    public GameObject torchPrefab;
+    private GameObject torchGameObject = null;
     public Rigidbody2D rb;
     public Vector2 movement;
     bool facingRight = true;
@@ -31,6 +33,12 @@ public class PlayerControls : MonoBehaviour
         
         // Get input for movement
         Orientation();
+        if (torchGameObject != null)
+        {
+            // Set the torch's position and rotation to match the player's hand
+            torchGameObject.transform.position = transform.position + transform.right * 0.5f; // Adjust the position to match your character's hand position
+            torchGameObject.transform.rotation = transform.rotation; // Set the rotation to match the player's hand rotation
+        }
     }
     
     void FixedUpdate()
@@ -80,6 +88,16 @@ public class PlayerControls : MonoBehaviour
         else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
         {
             anim.SetBool("Night", true);
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Torch"))
+        {
+            // Instantiate the torch item and set it as a child of the player
+            torchGameObject = Instantiate(torchPrefab, transform.position, transform.rotation);
+            torchGameObject.transform.SetParent(transform);
+            anim.SetBool("Has_Torch", true);
         }
     }
 }
