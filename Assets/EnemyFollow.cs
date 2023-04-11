@@ -6,10 +6,15 @@ public class EnemyFollow : MonoBehaviour
 {
     public Transform playerTransform;
     public float moveSpeed = 2f;
-    public float stoppingDistance = 2f;
+    public float stoppingDistance = 0.5f;
     private SpriteRenderer spriteRenderer;
     public Animator anim;
     public Torch torch;
+    public Transform respawnPoint;
+    public GameObject player;
+    private bool playerCollided = false;
+    private float respawnDelay = 1f; // 2 seconds delay before respawning
+
 
     private void Start()
     {
@@ -26,8 +31,11 @@ public class EnemyFollow : MonoBehaviour
 
         if (distanceToPlayer > stoppingDistance)
         {
+            // Move the enemy towards the player
             transform.position = Vector3.MoveTowards(transform.position, playerTransform.position, moveSpeed * Time.deltaTime);
             anim.SetBool("Player_Is_Close", true);
+
+            // Flip the sprite based on the player's position
             if (playerTransform.position.x < transform.position.x)
             {
                 spriteRenderer.flipX = true;
@@ -36,26 +44,25 @@ public class EnemyFollow : MonoBehaviour
             {
                 spriteRenderer.flipX = false;
             }
+
+            // Hide or show the enemy based on whether the player is holding the torch
             if (torch.isHeld)
             {
-                // Hide the enemy if the player is holding the torch
                 gameObject.SetActive(false);
             }
             else
             {
-                // Show the enemy if the player is not holding the torch
                 gameObject.SetActive(true);
             }
         }
-        else 
+        else
         {
-            if (distanceToPlayer <= stoppingDistance)
+            // Play the collision animation and respawn the player after a delay
+            if (!playerCollided)
             {
+                playerCollided = true;
                 anim.SetBool("Collided_With_Player", true);
-            }
-            else
-            {
-                anim.SetBool("Collided_With_Player", false);
+                Invoke("RespawnPlayer", respawnDelay);
             }
         }
     }
@@ -75,5 +82,14 @@ public class EnemyFollow : MonoBehaviour
             playerTransform = null;
             anim.SetBool("Player_Is_Close", false);
         }
+    }
+
+
+    private void RespawnPlayer()
+    {
+        // Reset the animation and respawn the player
+        anim.SetBool("Collided_With_Player", false);
+        player.transform.position = respawnPoint.position;
+        playerCollided = false;
     }
 }
