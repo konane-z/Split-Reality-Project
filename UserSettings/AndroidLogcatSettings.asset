@@ -1,78 +1,36 @@
 {
     "m_SelectedDeviceId": "X47T49XO9PLZSCMF",
     "m_SelectedPackage": {
-        "deviceId": "X47T49XO9PLZSCMF",
-        "name": "com.DefaultCompany.com.unity.template.mobile2D",
-        "processId": 13527,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "X47T49XO9PLZSCMF",
-            "name": "com.android.launcher",
-            "processId": 22999,
-            "exited": false
-        },
-        {
-            "deviceId": "X47T49XO9PLZSCMF",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 22401,
-            "exited": true
-        },
-        {
-            "deviceId": "X47T49XO9PLZSCMF",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 23528,
-            "exited": true
-        },
-        {
-            "deviceId": "X47T49XO9PLZSCMF",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 25028,
-            "exited": true
-        },
-        {
-            "deviceId": "X47T49XO9PLZSCMF",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 25690,
-            "exited": true
-        },
-        {
-            "deviceId": "X47T49XO9PLZSCMF",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 1549,
-            "exited": false
-        },
-        {
-            "deviceId": "X47T49XO9PLZSCMF",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 4751,
-            "exited": false
-        },
-        {
-            "deviceId": "X47T49XO9PLZSCMF",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
             "processId": 10855,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "X47T49XO9PLZSCMF",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
             "processId": 11488,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "X47T49XO9PLZSCMF",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
             "processId": 12959,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "X47T49XO9PLZSCMF",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
             "processId": 13527,
-            "exited": false
+            "exited": true
         }
     ],
     "m_Tags": {

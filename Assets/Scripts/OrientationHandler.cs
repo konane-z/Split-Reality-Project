@@ -13,6 +13,9 @@ public class OrientationHandler : MonoBehaviour
     public float cameraSizePortrait = 10f;
     public float cameraSizeLandscape = 15f;
     private ScreenOrientation previousOrientation;
+    public AudioClip dayClip;
+    public AudioClip nigtClip;
+    public AudioSource audioSource;
 
     void Start()
     {
@@ -45,13 +48,26 @@ public class OrientationHandler : MonoBehaviour
                 portraitObject.SetActive(true);
                 landscapeObject.SetActive(false);
                 mainCamera.orthographicSize = cameraSizePortrait;
+                PlaySoundEffectDayClip();
             }
             else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
             {
                 portraitObject.SetActive(false);
                 landscapeObject.SetActive(true);
                 mainCamera.orthographicSize = cameraSizeLandscape;
+                PlaySoundEffectNigtClip();
             }
         }
+    }
+    public void PlaySoundEffectDayClip()
+    {
+        audioSource.clip = dayClip;
+        audioSource.Play();
+    }
+
+    public void PlaySoundEffectNigtClip()
+    {
+        audioSource.clip = nigtClip;
+        audioSource.Play();
     }
 }
