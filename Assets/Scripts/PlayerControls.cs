@@ -17,6 +17,8 @@ public class PlayerControls : MonoBehaviour
     bool facingRight = true;
     public Animator anim;
     public int speed = 5;
+    public bool torchHeld = false;
+
     
 
     private void Awake()
@@ -40,13 +42,17 @@ public class PlayerControls : MonoBehaviour
         if (torchGameObject != null)
         {
             torchGameObject.transform.position = transform.position + transform.right * 0.5f;
-            torchGameObject.transform.rotation = transform.rotation; 
+            torchGameObject.transform.rotation = transform.rotation;
+            
         }
+  
         if (keyGameObject != null)
         {
             keyGameObject.transform.position = transform.position + transform.right * 0.5f;
             torchGameObject.transform.rotation = transform.rotation;
         }
+
+
     }
     
     void FixedUpdate()
@@ -103,6 +109,7 @@ public class PlayerControls : MonoBehaviour
         if (other.CompareTag("Torch"))
         {
             anim.SetBool("Has_Torch", true);
+           
         }
     }
 }
