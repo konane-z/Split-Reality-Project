@@ -7,6 +7,7 @@ public class Gate : MonoBehaviour
     public Animator anim;
     public Key key;
     public BoxCollider2D myBoxCollider;
+    public AudioSource BGM;
 
     void Update()
     {
@@ -26,6 +27,7 @@ public class Gate : MonoBehaviour
         {
             anim.SetBool("Player_Close", true);
             anim.SetBool("Has_Key", true);
+            BGM.Stop();
 
         }
     }
