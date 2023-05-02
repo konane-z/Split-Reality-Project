@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "055AYV4AUA",
         "name": "com.DefaultCompany.SplitRealityProject",
-        "processId": 23348,
+        "processId": 26176,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -41,109 +41,79 @@
         {
             "deviceId": "055AYV4AUA",
             "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 12572,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 14114,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 15223,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 17177,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 17488,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 17961,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 18193,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 19214,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 20352,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 20729,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 20950,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 21199,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 21839,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 22345,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 22582,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
-            "processId": 22775,
-            "exited": false
-        },
-        {
-            "deviceId": "055AYV4AUA",
-            "name": "com.DefaultCompany.SplitRealityProject",
             "processId": 23072,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "055AYV4AUA",
             "name": "com.DefaultCompany.SplitRealityProject",
             "processId": 23348,
+            "exited": true
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 23535,
+            "exited": true
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 23747,
+            "exited": true
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.unity3d.mobileremote",
+            "processId": 17799,
+            "exited": false
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 24232,
+            "exited": false
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 24436,
+            "exited": false
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 24963,
+            "exited": false
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 25355,
+            "exited": false
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 25601,
+            "exited": false
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 25785,
+            "exited": false
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 25963,
+            "exited": false
+        },
+        {
+            "deviceId": "055AYV4AUA",
+            "name": "com.DefaultCompany.SplitRealityProject",
+            "processId": 26176,
             "exited": false
         }
     ],

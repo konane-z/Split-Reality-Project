@@ -5963,6 +5963,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7180dcb764aafc54b82e30b785f624cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dayClip: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!114 &876872053
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17869,6 +17871,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7180dcb764aafc54b82e30b785f624cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dayClip: {fileID: 8300000, guid: 813ffedd8b541df469dc39256343e5bb, type: 3}
+  audioSource: {fileID: 656827859}
 --- !u!114 &1497710655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17881,7 +17885,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fdd54ee96eff4b4d86231910296cbee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dayClip: {fileID: 0}
+  dayClip: {fileID: 8300000, guid: 813ffedd8b541df469dc39256343e5bb, type: 3}
   nightClip: {fileID: 0}
   menuClip: {fileID: 0}
   mushroomClip: {fileID: 8300000, guid: ebbcdd11d4b381c49826dbb4b69884a3, type: 3}

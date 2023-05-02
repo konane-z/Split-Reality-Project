@@ -24,7 +24,7 @@ public class OrientationHandler : MonoBehaviour
     {
         mainCamera = Camera.main;
         previousOrientation = Screen.orientation;
-       
+        PlaySoundEffectMenuClip();
 
         // Determine current screen orientation and enable/disable objects accordingly
         if (Screen.orientation == ScreenOrientation.Portrait || Screen.orientation == ScreenOrientation.PortraitUpsideDown)
@@ -32,12 +32,6 @@ public class OrientationHandler : MonoBehaviour
             portraitObject.SetActive(true);
             landscapeObject.SetActive(false);
             mainCamera.orthographicSize = cameraSizePortrait;
-
-            if (!audioSource.isPlaying && StartScreen.active == true)
-            {
-                PlaySoundEffectMenuClip();
-                inGame = true;
-            }
         }
         else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
         {
@@ -49,13 +43,7 @@ public class OrientationHandler : MonoBehaviour
 
     private void Update()
     {
-        
-        if (StartScreen.active == false && inGame == true)
-        {
-            inGame = false;
-            audioSource.Stop();
-            PlaySoundEffectDayClip();
-        }
+       
         
         if (Screen.orientation != previousOrientation)
         {
@@ -81,6 +69,7 @@ public class OrientationHandler : MonoBehaviour
     }
     public void PlaySoundEffectDayClip()
     {
+        audioSource.Stop();
         audioSource.clip = dayClip;
         audioSource.loop = true;
         audioSource.Play();
@@ -88,6 +77,7 @@ public class OrientationHandler : MonoBehaviour
 
     public void PlaySoundEffectNightClip()
     {
+        audioSource.Stop();
         audioSource.clip = nightClip;
         audioSource.loop = true;
         audioSource.Play();
@@ -105,5 +95,8 @@ public class OrientationHandler : MonoBehaviour
     {
         audioSource.clip = menuClip;
         audioSource.Stop();
+        audioSource.clip = dayClip;
+        audioSource.loop = true;
+        audioSource.Play();
     }
 }

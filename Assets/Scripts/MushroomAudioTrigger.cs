@@ -9,7 +9,9 @@ public class MushroomAudioTrigger : MonoBehaviour
     public AudioClip nightClip;
     public AudioClip menuClip;
     public AudioClip mushroomClip;
+    public AudioClip mushroomChatter;
     public AudioSource audioSource;
+    public AudioSource mushroomTalkClip;
     // Start is called before the first frame update
     void Start()
     {
