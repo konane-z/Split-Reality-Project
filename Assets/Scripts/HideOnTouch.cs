@@ -10,6 +10,12 @@ public class HideOnTouch : MonoBehaviour
     // Reference to the image you want to hide
     public Image imageToHide;
     public TextMeshProUGUI textToHide;
+    public AudioSource startSound;
+    public AudioSource audioSource;
+    public AudioClip menuClip;
+    public AudioClip startClip;
+    public AudioClip dayClip;
+    public bool startPressed = false;
 
     void Update()
     {
@@ -21,11 +27,25 @@ public class HideOnTouch : MonoBehaviour
 
             // Check if the touch is on the image
             if (RectTransformUtility.RectangleContainsScreenPoint(imageToHide.rectTransform, touch.position))
-            {
-                // Hide the image
-                imageToHide.enabled = false;
-                textToHide.enabled = false;
-            }
+                {
+                    if (startPressed == false)
+                    {
+                        startSound.clip = startClip;
+                        startSound.Play();
+                        audioSource.Stop();
+                        audioSource.clip = dayClip;
+                        audioSource.loop = true;
+                        audioSource.Play();
+                        startPressed = true;
+                        imageToHide.enabled = false;
+                        textToHide.enabled = false;
+                    }
+                    else
+                    {
+                        imageToHide.enabled = false;
+                        textToHide.enabled = false;
+                    }
+                }
         }
     }
 }
