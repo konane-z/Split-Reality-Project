@@ -7,6 +7,8 @@ public class TextAnimation : MonoBehaviour
 {
     public TextMeshProUGUI dialogueText;
     public string[] dialogueLines = new string[10];
+    public AudioClip mushroomChatter;
+    public AudioSource mushroomTalk;
 
     int currentIndex = 0;
     bool isAnimating = false;
@@ -14,6 +16,8 @@ public class TextAnimation : MonoBehaviour
     void Start()
     {
         StartCoroutine(AnimateText(dialogueLines[currentIndex]));
+        mushroomTalk.clip = mushroomChatter;
+        mushroomTalk.loop = true;
     }
 
     void Update()
@@ -23,6 +27,7 @@ public class TextAnimation : MonoBehaviour
             currentIndex++;
             if (currentIndex < dialogueLines.Length)
             {
+                
                 StartCoroutine(AnimateText(dialogueLines[currentIndex]));
             }
         }
@@ -36,8 +41,14 @@ public class TextAnimation : MonoBehaviour
         {
             dialogueText.text += c;
             yield return new WaitForSeconds(0.05f); // Adjust this value to change the speed of the animation
+            if (isAnimating == true && !mushroomTalk.isPlaying)
+            {
+                mushroomTalk.loop = true;
+                mushroomTalk.Play();
+            }
         }
         isAnimating = false;
+        mushroomTalk.loop = false;
     }
 }
 
