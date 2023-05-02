@@ -9,6 +9,8 @@ public class CanvasController : MonoBehaviour
     private ScreenOrientation originalOrientation;
     private bool canvasActive = false;
     public float displayTime = 10.0f;
+    public AudioClip menuClip;
+    public AudioSource audioSource;
 
     void Start()
     {
@@ -22,6 +24,7 @@ public class CanvasController : MonoBehaviour
             canvasObject.SetActive(true);
             Invoke("DisableCanvas", displayTime);
             canvasActive = true;
+            StopSoundEffectMenuClip();
         }
     }
 
@@ -29,6 +32,13 @@ public class CanvasController : MonoBehaviour
     {
         canvasObject.SetActive(false);
         canvasActive = false;
+        StopSoundEffectMenuClip();
+    }
+
+    public void StopSoundEffectMenuClip()
+    {
+        audioSource.clip = menuClip;
+        audioSource.Stop();
     }
 }
 

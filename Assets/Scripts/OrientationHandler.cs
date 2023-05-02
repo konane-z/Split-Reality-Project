@@ -14,13 +14,17 @@ public class OrientationHandler : MonoBehaviour
     public float cameraSizeLandscape = 15f;
     private ScreenOrientation previousOrientation;
     public AudioClip dayClip;
-    public AudioClip nigtClip;
+    public AudioClip nightClip;
+    public AudioClip menuClip;
     public AudioSource audioSource;
+    public GameObject StartScreen;
+    public bool inGame = false;
 
     void Start()
     {
         mainCamera = Camera.main;
         previousOrientation = Screen.orientation;
+       
 
         // Determine current screen orientation and enable/disable objects accordingly
         if (Screen.orientation == ScreenOrientation.Portrait || Screen.orientation == ScreenOrientation.PortraitUpsideDown)
@@ -28,6 +32,12 @@ public class OrientationHandler : MonoBehaviour
             portraitObject.SetActive(true);
             landscapeObject.SetActive(false);
             mainCamera.orthographicSize = cameraSizePortrait;
+
+            if (!audioSource.isPlaying && StartScreen.active == true)
+            {
+                PlaySoundEffectMenuClip();
+                inGame = true;
+            }
         }
         else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
         {
@@ -39,6 +49,14 @@ public class OrientationHandler : MonoBehaviour
 
     private void Update()
     {
+        
+        if (StartScreen.active == false && inGame == true)
+        {
+            inGame = false;
+            audioSource.Stop();
+            PlaySoundEffectDayClip();
+        }
+        
         if (Screen.orientation != previousOrientation)
         {
             previousOrientation = Screen.orientation;
@@ -49,25 +67,43 @@ public class OrientationHandler : MonoBehaviour
                 landscapeObject.SetActive(false);
                 mainCamera.orthographicSize = cameraSizePortrait;
                 PlaySoundEffectDayClip();
+                //StopSoundEffectMenuClip();
             }
             else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
             {
                 portraitObject.SetActive(false);
                 landscapeObject.SetActive(true);
                 mainCamera.orthographicSize = cameraSizeLandscape;
-                PlaySoundEffectNigtClip();
+                PlaySoundEffectNightClip();
+                //StopSoundEffectMenuClip();
             }
         }
     }
     public void PlaySoundEffectDayClip()
     {
         audioSource.clip = dayClip;
+        audioSource.loop = true;
         audioSource.Play();
     }
 
-    public void PlaySoundEffectNigtClip()
+    public void PlaySoundEffectNightClip()
     {
-        audioSource.clip = nigtClip;
+        audioSource.clip = nightClip;
+        audioSource.loop = true;
         audioSource.Play();
+    }
+
+    public void PlaySoundEffectMenuClip()
+    {
+        audioSource.Stop();
+        audioSource.clip = menuClip;
+        audioSource.loop = false;
+        audioSource.Play();
+    }
+
+    public void StopSoundEffectMenuClip()
+    {
+        audioSource.clip = menuClip;
+        audioSource.Stop();
     }
 }

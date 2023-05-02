@@ -257,7 +257,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Please enable autorotation
+  m_text: Please enable Auto-Rotation on your phone before starting!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 79f6059fd01868742b4d225bfdc21eac, type: 2}
   m_sharedMaterial: {fileID: -2256941537981646018, guid: 79f6059fd01868742b4d225bfdc21eac, type: 2}
@@ -658,7 +658,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 663719824d0c43a4d9af2347f33f6e4e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 9e67585d51ac97940b26559d2f335f44, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1034,11 +1034,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.5
+      value: 1.48911
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3.5
+      value: 1.48911
+      objectReference: {fileID: 0}
+    - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.42546
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1070,11 +1074,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 2105
+      value: 504.94
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 434
+      value: 134
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -5563,9 +5567,12 @@ MonoBehaviour:
   landscapeObject: {fileID: 479767964}
   cameraSizePortrait: 12
   cameraSizeLandscape: 5
-  dayClip: {fileID: 8300000, guid: baa47a579fb3f1041b604a8a1a57c4e7, type: 3}
-  nigtClip: {fileID: 8300000, guid: 8c029112c9aeb2e4dad33df1e67881cb, type: 3}
+  dayClip: {fileID: 8300000, guid: 813ffedd8b541df469dc39256343e5bb, type: 3}
+  nightClip: {fileID: 8300000, guid: 9e67585d51ac97940b26559d2f335f44, type: 3}
+  menuClip: {fileID: 8300000, guid: 38f17247793713842b290dd36c0e4b3b, type: 3}
   audioSource: {fileID: 656827859}
+  StartScreen: {fileID: 0}
+  inGame: 0
 --- !u!82 &656827859
 AudioSource:
   m_ObjectHideFlags: 0
@@ -6325,7 +6332,7 @@ GameObject:
   - component: {fileID: 1094084668}
   - component: {fileID: 1094084671}
   m_Layer: 5
-  m_Name: Start Screen
+  m_Name: StartScreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17641,7 +17648,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 224252827529839462, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -8
+      value: -7.999977
       objectReference: {fileID: 0}
     - target: {fileID: 224252827529839462, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -17685,11 +17692,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 200
+      value: 120.7214
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 200
+      value: 120.72
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_LocalScale.x
@@ -17729,11 +17736,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 745
+      value: 505.5298
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 310
+      value: 230.07
       objectReference: {fileID: 0}
     - target: {fileID: 224776278182048460, guid: 36300ad3f703b964fb4e8c42be9649ec, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -17780,6 +17787,7 @@ GameObject:
   - component: {fileID: 1497710653}
   - component: {fileID: 1497710652}
   - component: {fileID: 1497710654}
+  - component: {fileID: 1497710655}
   m_Layer: 5
   m_Name: Conversation
   m_TagString: Untagged
@@ -17861,6 +17869,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7180dcb764aafc54b82e30b785f624cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1497710655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1497710648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fdd54ee96eff4b4d86231910296cbee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dayClip: {fileID: 0}
+  nightClip: {fileID: 0}
+  menuClip: {fileID: 0}
+  mushroomClip: {fileID: 8300000, guid: ebbcdd11d4b381c49826dbb4b69884a3, type: 3}
+  audioSource: {fileID: 656827859}
 --- !u!1 &1538897996
 GameObject:
   m_ObjectHideFlags: 0
@@ -33789,11 +33814,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: b3c8f1a9ba816584db57fda2826fbbc8, type: 3}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: 813ffedd8b541df469dc39256343e5bb, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -33930,13 +33955,13 @@ MonoBehaviour:
   dialogueLines:
   - Hello there!
   - Are you stuck here?
-  - The forrest can be tricky to navigate. If you're having trouble, try changing
+  - The forest can be tricky to navigate. If you're having trouble, try changing
     the orientation of your phone.
-  - Just be carefull, the dark can hide a lot of evil creatures.
-  - I've heard there are some hidden treasures there.
-  - Like a key to open the gate or a torch to keep you safe.
+  - Just be careful - the dark can hide a lot of evil creatures.
+  - 'I''ve heard there are some hidden treasures there though:'
+  - Like a Key to open the Gate or a Torch to keep you safe.
   - Good luck on your adventures!
-  - Ohh, and please visit me in the future. I might have more informaton.
+  - And please visit me in the future. I might have more informaton.
 --- !u!114 &1987009569
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33957,7 +33982,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Ohh, and please visit me in the future. I might have more informaton.
+  m_text: Oh, and please visit me in the future. I might have more informaton!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 79f6059fd01868742b4d225bfdc21eac, type: 2}
   m_sharedMaterial: {fileID: -2256941537981646018, guid: 79f6059fd01868742b4d225bfdc21eac, type: 2}
