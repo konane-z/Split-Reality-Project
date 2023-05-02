@@ -18,6 +18,9 @@ public class PlayerControls : MonoBehaviour
     public Animator anim;
     public int speed = 5;
     public bool torchHeld = false;
+    public bool playerMoving = false;
+    public AudioSource playerStep;
+    public AudioClip playerStepSFX;
 
     
 
@@ -31,6 +34,8 @@ public class PlayerControls : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        playerStep.clip = playerStepSFX;
+        playerStep.loop = true;
     }
 
     // Update is called once per frame
@@ -58,6 +63,14 @@ public class PlayerControls : MonoBehaviour
     void FixedUpdate()
     {
         ButtonMove();
+        if (playerMoving == true && !playerStep.isPlaying)
+        {
+            playerStep.Play();
+        }
+        else
+        {
+            playerStep.Stop();
+        }
     }
 
     public void ButtonMove()
@@ -74,13 +87,21 @@ public class PlayerControls : MonoBehaviour
         // Move the player using the Rigidbody2D component's MovePosition method
         rb.MovePosition(rb.position + movementInput * speed * Time.fixedDeltaTime);
 
-        if (horizontalInput > 0 && !facingRight)
+        if (horizontalInput != 0 || verticalInput != 0)
         {
-            Flip();
+            playerMoving = true;
+            if (horizontalInput > 0 && !facingRight)
+            {
+                Flip();
+            }
+            else if (horizontalInput < 0 && facingRight)
+            {
+                Flip();
+            }
         }
-        else if (horizontalInput < 0 && facingRight)
+        else if (horizontalInput == 0 && verticalInput == 0)
         {
-            Flip();
+            playerMoving = false;
         }
     }
 
